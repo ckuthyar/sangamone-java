@@ -1,0 +1,9 @@
+Asha,5000,01-Dec-2021
+Balu,5500,02-Dec-2021
+Chandra,6000,03-Dec-2021
+Dilip,6500,04-Dec-2021
+Eshwar,7000,05-Dec-2021
+Fabin,7500,06-Dec-2021
+Girish,8000,07-Dec-2021
+Hemant,8500,08-Dec-2021
+Irene,9000,09-Dec-2021

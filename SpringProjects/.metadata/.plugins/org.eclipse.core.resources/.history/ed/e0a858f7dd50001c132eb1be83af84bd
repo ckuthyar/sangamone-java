@@ -1,0 +1,25 @@
+package com.sangamone;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class cs1 {
+	public static void main(String[] args) {
+		ArrayList<String> friends = new ArrayList<String>();
+		friends.add("Asha");
+		friends.add("Balu");
+		friends.add("Chandra");
+		friends.add("Dilip");
+		friends.add("Eshwar");
+		friends.add("Fabin");
+		friends.add("Hemant");
+		friends.add("Irene");
+		friends.add("James");
+		int len1 = friends.size();
+		for(int i=0; i<len1; i++) {
+		System.out.println("Hello Friend "+friends.get(i));
+		}
+	}
+}
+
+

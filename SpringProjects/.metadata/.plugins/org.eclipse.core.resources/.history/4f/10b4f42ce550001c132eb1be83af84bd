@@ -1,0 +1,16 @@
+package com.sangamone;
+
+import java.io.File;
+import java.util.Scanner;
+
+public class cs2 {
+	public static void main(String[] args) throws Exception {
+		File f1 = new File("D:\\3-SangamOne\\2021\\Coding\\Java\\premium_dec2021.txt");
+		Scanner sc = new Scanner(f1);
+		while (sc.hasNextLine()){
+			System.out.println(sc.nextLine());
+		}
+		System.out.println("Hello");
+	}
+
+}

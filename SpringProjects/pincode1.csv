@@ -1,0 +1,1001 @@
+id,city_name,division_name,office_name,pincode,district,state_name
+1,"Karnataka Circle","Chikkamagaluru Division","Bettadahalli B.O",577228,CHIKKAMAGALURU,KARNATAKA
+2,"Karnataka Circle","Chikkamagaluru Division","Doranalu B.O",577228,CHIKKAMAGALURU,KARNATAKA
+3,"Karnataka Circle","Chikkamagaluru Division","Nerlekere B.O",577228,CHIKKAMAGALURU,KARNATAKA
+4,"Karnataka Circle","Chitradurga Division","Malali B.O",577515,CHITRADURGA,KARNATAKA
+5,"Karnataka Circle","Chitradurga Division","Marabhaghatta B.O",577515,CHITRADURGA,KARNATAKA
+6,"Karnataka Circle","Chitradurga Division","Megalahally B.O",577502,CHITRADURGA,KARNATAKA
+7,"Karnataka Circle","Chitradurga Division","Hunsekatte B.O",577517,CHITRADURGA,KARNATAKA
+8,"Karnataka Circle","Chitradurga Division","Kadabanakatte B.O",577517,CHITRADURGA,KARNATAKA
+9,"Karnataka Circle","Chitradurga Division","Harthikote B.O",577545,CHITRADURGA,KARNATAKA
+10,"Karnataka Circle","Chitradurga Division","Hemadala B.O",577545,CHITRADURGA,KARNATAKA
+11,"Karnataka Circle","Hassan Division","Ponnasamudra B.O",573103,HASSAN,KARNATAKA
+12,"Karnataka Circle","Hassan Division","Shankaranahalli B.O",573103,HASSAN,KARNATAKA
+13,"Karnataka Circle","Hassan Division","Sulekere B.O",573103,HASSAN,KARNATAKA
+14,"Karnataka Circle","Hassan Division","T.Kodihalli B.O",573103,HASSAN,KARNATAKA
+15,"Karnataka Circle","Hassan Division","Talalur B.O",573103,HASSAN,KARNATAKA
+16,"Karnataka Circle","Hassan Division","Kunduru B.O",573111,HASSAN,KARNATAKA
+17,"Karnataka Circle","Hassan Division","Banavara R S B.O",573112,HASSAN,KARNATAKA
+18,"Karnataka Circle","Hassan Division","Basavanahalli B.O",573112,HASSAN,KARNATAKA
+19,"Karnataka Circle","Hassan Division","Shanegere B.O",573112,HASSAN,KARNATAKA
+20,"Karnataka Circle","Hassan Division","Thondiganahalli B.O",573112,HASSAN,KARNATAKA
+21,"Karnataka Circle","Hassan Division","Dabbe B.O",573115,HASSAN,KARNATAKA
+22,"Karnataka Circle","Hassan Division","Gendehalli B.O",573115,HASSAN,KARNATAKA
+23,"Karnataka Circle","Hassan Division","Hanike B.O",573115,HASSAN,KARNATAKA
+24,"Karnataka Circle","Chitradurga Division","Rastemachikere B.O",577553,DAVANGERE,KARNATAKA
+25,"Karnataka Circle","Chitradurga Division","Medegenaikere B.O",577553,DAVANGERE,KARNATAKA
+26,"Karnataka Circle","Chitradurga Division","Kundawada B.O",577566,DAVANGERE,KARNATAKA
+27,"Karnataka Circle","Chitradurga Division","Kolkunte B.O",577002,DAVANGERE,KARNATAKA
+28,"Karnataka Circle","Chitradurga Division","Lokikere B.O",577002,DAVANGERE,KARNATAKA
+29,"Karnataka Circle","Chitradurga Division","Tholahunse B.O",577007,DAVANGERE,KARNATAKA
+30,"Karnataka Circle","Chitradurga Division","Kumbalur B.O",577530,DAVANGERE,KARNATAKA
+31,"Karnataka Circle","Chitradurga Division","Nittur B.O",577530,DAVANGERE,KARNATAKA
+32,"Karnataka Circle","Chitradurga Division","Anaberu B.O",577534,DAVANGERE,KARNATAKA
+33,"Karnataka Circle","Chitradurga Division","Avaragere B.O",577003,DAVANGERE,KARNATAKA
+34,"Karnataka Circle","Chitradurga Division","Nittuvalli B.O",577004,DAVANGERE,KARNATAKA
+35,"Karnataka Circle","Chitradurga Division","Alur B.O",577512,DAVANGERE,KARNATAKA
+36,"Karnataka Circle","Chitradurga Division","Tumbigre B.O",577512,DAVANGERE,KARNATAKA
+37,"Karnataka Circle","Chitradurga Division","Pallaghatta B.O",577513,DAVANGERE,KARNATAKA
+38,"Karnataka Circle","Chitradurga Division","Hirethogaleri B.O",577514,DAVANGERE,KARNATAKA
+39,"Karnataka Circle","Chitradurga Division","Kurki B.O",577514,DAVANGERE,KARNATAKA
+40,"Karnataka Circle","Chitradurga Division","Nandigavi B.O",577516,DAVANGERE,KARNATAKA
+41,"Karnataka Circle","Chitradurga Division","Guilal B.O",577558,CHITRADURGA,KARNATAKA
+42,"Karnataka Circle","Chitradurga Division","Suragondanahally B.O",577558,CHITRADURGA,KARNATAKA
+43,"Karnataka Circle","Chitradurga Division","Kondajji B.O",577515,CHITRADURGA,KARNATAKA
+44,"Karnataka Circle","Chitradurga Division","Alaghatta B.O",577597,CHITRADURGA,KARNATAKA
+45,"Karnataka Circle","Chitradurga Division","Kainadu B.O",577542,CHITRADURGA,KARNATAKA
+46,"Karnataka Circle","Chitradurga Division","S. Nerlakere B.O",577542,CHITRADURGA,KARNATAKA
+47,"Karnataka Circle","Chitradurga Division","Chikkagondanahally B.O",577502,CHITRADURGA,KARNATAKA
+48,"Karnataka Circle","Chitradurga Division","Thimmappaiahnahally B.O",577543,CHITRADURGA,KARNATAKA
+49,"Karnataka Circle","Chitradurga Division","Mustur B.O",577528,DAVANGERE,KARNATAKA
+50,"Karnataka Circle","Chitradurga Division","Basavanahal B.O",577002,DAVANGERE,KARNATAKA
+51,"Karnataka Circle","Chitradurga Division","Mudahadadi B.O",577002,DAVANGERE,KARNATAKA
+52,"Karnataka Circle","Chitradurga Division","Avaragolla B.O",577589,DAVANGERE,KARNATAKA
+53,"Karnataka Circle","Chitradurga Division","Komaranahalli B.O",577530,DAVANGERE,KARNATAKA
+54,"Karnataka Circle","Chitradurga Division","Echaghatta B.O",577534,DAVANGERE,KARNATAKA
+55,"Karnataka Circle","Chitradurga Division","Kodaganur B.O",577534,DAVANGERE,KARNATAKA
+56,"Karnataka Circle","Chitradurga Division","Belludi B.O",577601,DAVANGERE,KARNATAKA
+57,"Karnataka Circle","Hassan Division","Aggunda B.O",573103,HASSAN,KARNATAKA
+58,"Karnataka Circle","Chitradurga Division","Bharamapuri Extension B.O",577601,DAVANGERE,KARNATAKA
+59,"Karnataka Circle","Chitradurga Division","Hanagawadi B.O",577601,DAVANGERE,KARNATAKA
+60,"Karnataka Circle","Chitradurga Division","Kalledevarapura B.O",577528,DAVANGERE,KARNATAKA
+61,"Karnataka Circle","Chitradurga Division","Sokke B.O",577528,DAVANGERE,KARNATAKA
+62,"Karnataka Circle","Chitradurga Division","Belavanur B.O",577002,DAVANGERE,KARNATAKA
+63,"Karnataka Circle","Chitradurga Division","Bethur B.O",577002,DAVANGERE,KARNATAKA
+64,"Karnataka Circle","Chitradurga Division","Kenchenahalli B.O",577589,DAVANGERE,KARNATAKA
+65,"Karnataka Circle","Chitradurga Division","Kokkanur B.O",577530,DAVANGERE,KARNATAKA
+66,"Karnataka Circle","Chitradurga Division","Naraganahalli B.O",577534,DAVANGERE,KARNATAKA
+67,"Karnataka Circle","Chitradurga Division","Shyamanur B.O",577004,DAVANGERE,KARNATAKA
+68,"Karnataka Circle","Hassan Division","Amaragiri Tirupathi B.O",573103,HASSAN,KARNATAKA
+69,"Karnataka Circle","Hassan Division","Belagumba B.O",573103,HASSAN,KARNATAKA
+70,"Karnataka Circle","Hassan Division","Dummenahalli B.O",573103,HASSAN,KARNATAKA
+71,"Karnataka Circle","Hassan Division","Basavaghatta B.O",573162,HASSAN,KARNATAKA
+72,"Karnataka Circle","Chikkamagaluru Division","Amruthapura B.O",577228,CHIKKAMAGALURU,KARNATAKA
+73,"Karnataka Circle","Chikkamagaluru Division","Belenahalli B.O",577228,CHIKKAMAGALURU,KARNATAKA
+74,"Karnataka Circle","Chitradurga Division","Ikkanur B.O",577511,CHITRADURGA,KARNATAKA
+75,"Karnataka Circle","Chitradurga Division","Javanagondanahally B.O",577511,CHITRADURGA,KARNATAKA
+76,"Karnataka Circle","Chitradurga Division","Kariyala B.O",577511,CHITRADURGA,KARNATAKA
+77,"Karnataka Circle","Chitradurga Division","Talavatti B.O",577558,CHITRADURGA,KARNATAKA
+78,"Karnataka Circle","Chitradurga Division","Byadareddyhally B.O",577543,CHITRADURGA,KARNATAKA
+79,"Karnataka Circle","Chitradurga Division","Chikkammanahally B.O",577543,CHITRADURGA,KARNATAKA
+80,"Karnataka Circle","Chitradurga Division","Ghataparthy B.O",577543,CHITRADURGA,KARNATAKA
+81,"Karnataka Circle","Chitradurga Division","Kodihally B.O",577543,CHITRADURGA,KARNATAKA
+82,"Karnataka Circle","Chitradurga Division","Gonuru B.O",577517,CHITRADURGA,KARNATAKA
+83,"Karnataka Circle","Chitradurga Division","Haikal B.O",577517,CHITRADURGA,KARNATAKA
+84,"Karnataka Circle","Chitradurga Division","Hebbal B.O",577556,DAVANGERE,KARNATAKA
+85,"Karnataka Circle","Chitradurga Division","Honnur B.O",577556,DAVANGERE,KARNATAKA
+86,"Karnataka Circle","Chitradurga Division","Gudahal B.O",577512,DAVANGERE,KARNATAKA
+87,"Karnataka Circle","Chitradurga Division","Diddige B.O",577513,DAVANGERE,KARNATAKA
+88,"Karnataka Circle","Chitradurga Division","Murikunte B.O",577513,DAVANGERE,KARNATAKA
+89,"Karnataka Circle","Chitradurga Division","Kandagal B.O",577514,DAVANGERE,KARNATAKA
+90,"Karnataka Circle","Chitradurga Division","Malalkere B.O",577514,DAVANGERE,KARNATAKA
+91,"Karnataka Circle","Chitradurga Division","Siramagondanahalli B.O",577005,DAVANGERE,KARNATAKA
+92,"Karnataka Circle","Chitradurga Division","Kamalapura B.O",577516,DAVANGERE,KARNATAKA
+93,"Karnataka Circle","Chitradurga Division","Sirigere (Harihara) B.O",577516,DAVANGERE,KARNATAKA
+94,"Karnataka Circle","Chitradurga Division","Yelehole B.O",577516,DAVANGERE,KARNATAKA
+95,"Karnataka Circle","Chitradurga Division","Helekallu B.O",577553,DAVANGERE,KARNATAKA
+96,"Karnataka Circle","Chitradurga Division","Mustegerahalli B.O",577553,DAVANGERE,KARNATAKA
+97,"Karnataka Circle","Chitradurga Division","CHIKKABUDIHAL BO",577006,DAVANGERE,KARNATAKA
+98,"Karnataka Circle","Chitradurga Division","Hlebathi B.O",577566,DAVANGERE,KARNATAKA
+99,"Karnataka Circle","Chitradurga Division","Kunibelakere B.O",577601,DAVANGERE,KARNATAKA
+100,"Karnataka Circle","Chitradurga Division","Rajanahalli B.O",577601,DAVANGERE,KARNATAKA
+101,"Karnataka Circle","Kodagu Division","Halligattu B.O",571216,KODAGU,KARNATAKA
+102,"Karnataka Circle","Kodagu Division","Kanur B.O",571216,KODAGU,KARNATAKA
+103,"Karnataka Circle","Kodagu Division","Ankanahalli B.O",571235,KODAGU,KARNATAKA
+104,"Karnataka Circle","Chitradurga Division","Sarathi B.O",577601,DAVANGERE,KARNATAKA
+105,"Karnataka Circle","Chikkamagaluru Division","Hunsaghatta B.O",577228,CHIKKAMAGALURU,KARNATAKA
+106,"Karnataka Circle","Chikkamagaluru Division","K. Chattnahalli B.O",577228,CHIKKAMAGALURU,KARNATAKA
+107,"Karnataka Circle","Chikkamagaluru Division","Nandi B.O",577228,CHIKKAMAGALURU,KARNATAKA
+108,"Karnataka Circle","Chitradurga Division","Pitlali B.O",577511,CHITRADURGA,KARNATAKA
+109,"Karnataka Circle","Chitradurga Division","T. Nagenahally B.O",577511,CHITRADURGA,KARNATAKA
+110,"Karnataka Circle","Chitradurga Division","Arnakatte B.O",577511,CHITRADURGA,KARNATAKA
+111,"Karnataka Circle","Chitradurga Division","Bharampura B.O",577558,CHITRADURGA,KARNATAKA
+112,"Karnataka Circle","Chitradurga Division","Bharamasamudra B.O",577528,DAVANGERE,KARNATAKA
+113,"Karnataka Circle","Chitradurga Division","Donehalli B.O",577528,DAVANGERE,KARNATAKA
+114,"Karnataka Circle","Chitradurga Division","Hucchavvanahalli B.O",577528,DAVANGERE,KARNATAKA
+115,"Karnataka Circle","Chitradurga Division","Marenahalli B.O",577528,DAVANGERE,KARNATAKA
+116,"Karnataka Circle","Chitradurga Division","Salahalli B.O",577528,DAVANGERE,KARNATAKA
+117,"Karnataka Circle","Chitradurga Division","Shyagale B.O",577002,DAVANGERE,KARNATAKA
+118,"Karnataka Circle","Hassan Division","Kallanagere B.O",573103,HASSAN,KARNATAKA
+119,"Karnataka Circle","Hassan Division","Kuruvanka B.O",573103,HASSAN,KARNATAKA
+120,"Karnataka Circle","Hassan Division","Maratagere B.O",573103,HASSAN,KARNATAKA
+121,"Karnataka Circle","Hassan Division","Jajur B.O",573103,HASSAN,KARNATAKA
+122,"Karnataka Circle","Chitradurga Division","Hulithotlu B.O",577558,CHITRADURGA,KARNATAKA
+123,"Karnataka Circle","Chitradurga Division","Aralihally B.O",577515,CHITRADURGA,KARNATAKA
+124,"Karnataka Circle","Chitradurga Division","Konguvalli B.O",577515,CHITRADURGA,KARNATAKA
+125,"Karnataka Circle","Chitradurga Division","Ballalasamudra B.O",577597,CHITRADURGA,KARNATAKA
+126,"Karnataka Circle","Chitradurga Division","Chowlihalli B.O",577519,CHITRADURGA,KARNATAKA
+127,"Karnataka Circle","Chitradurga Division","Kurubarahally B.O",577542,CHITRADURGA,KARNATAKA
+128,"Karnataka Circle","Chitradurga Division","Obalapura B.O",577542,CHITRADURGA,KARNATAKA
+129,"Karnataka Circle","Chitradurga Division","Guddadarangavanahally B.O",577502,CHITRADURGA,KARNATAKA
+130,"Karnataka Circle","Chitradurga Division","Rayanahally B.O",577502,CHITRADURGA,KARNATAKA
+131,"Karnataka Circle","Chitradurga Division","Buddanahatty B.O",577543,CHITRADURGA,KARNATAKA
+132,"Karnataka Circle","Chitradurga Division","Mannekote B.O",577543,CHITRADURGA,KARNATAKA
+133,"Karnataka Circle","Chitradurga Division","Valase B.O",577543,CHITRADURGA,KARNATAKA
+134,"Karnataka Circle","Chitradurga Division","Bangarakkanahally B.O",577517,CHITRADURGA,KARNATAKA
+135,"Karnataka Circle","Chitradurga Division","Kunabevu B.O",577517,CHITRADURGA,KARNATAKA
+136,"Karnataka Circle","Chitradurga Division","Mallappanahally B.O",577545,CHITRADURGA,KARNATAKA
+137,"Karnataka Circle","Chitradurga Division","Halagaladdi B.O",577596,CHITRADURGA,KARNATAKA
+138,"Karnataka Circle","Chitradurga Division","Khandenahalli B.O",577596,CHITRADURGA,KARNATAKA
+139,"Karnataka Circle","Hassan Division","Kembalu B.O",573111,HASSAN,KARNATAKA
+140,"Karnataka Circle","Hassan Division","Maraghushivara B.O",573111,HASSAN,KARNATAKA
+141,"Karnataka Circle","Hassan Division","Nagasamudra B.O",573112,HASSAN,KARNATAKA
+142,"Karnataka Circle","Hassan Division","Bennur B.O",573115,HASSAN,KARNATAKA
+143,"Karnataka Circle","Hassan Division","Chikmedur B.O",573115,HASSAN,KARNATAKA
+144,"Karnataka Circle","Puttur Division","Gerukatte B.O",574217,"DAKSHINA KANNADA",KARNATAKA
+145,"Karnataka Circle","Puttur Division","Balugodu B.O",574218,"DAKSHINA KANNADA",KARNATAKA
+146,"Karnataka Circle","Puttur Division","Nadugallu B.O",574218,"DAKSHINA KANNADA",KARNATAKA
+147,"Karnataka Circle","Puttur Division","Soole Padavu B.O",574313,"DAKSHINA KANNADA",KARNATAKA
+148,"Karnataka Circle","Puttur Division","Benjanapadavu B.O",574219,"DAKSHINA KANNADA",KARNATAKA
+149,"Karnataka Circle","Puttur Division","Modankap B.O",574219,"DAKSHINA KANNADA",KARNATAKA
+150,"Karnataka Circle","Puttur Division","Idkidu B.O",574220,"DAKSHINA KANNADA",KARNATAKA
+151,"Karnataka Circle","Puttur Division","Kudippady B.O",574220,"DAKSHINA KANNADA",KARNATAKA
+152,"Karnataka Circle","Puttur Division","Yedamangala B.O",574221,"DAKSHINA KANNADA",KARNATAKA
+153,"Karnataka Circle","Puttur Division","Bolanthuru B.O",574222,"DAKSHINA KANNADA",KARNATAKA
+154,"Karnataka Circle","Puttur Division","Kodapadavu B.O",574222,"DAKSHINA KANNADA",KARNATAKA
+155,"Karnataka Circle","Puttur Division","Karaya B.O",574326,"DAKSHINA KANNADA",KARNATAKA
+156,"Karnataka Circle","Puttur Division","Bobbekri B.O",574328,"DAKSHINA KANNADA",KARNATAKA
+157,"Karnataka Circle","Puttur Division","Dolpady B.O",574328,"DAKSHINA KANNADA",KARNATAKA
+158,"Karnataka Circle","Puttur Division","Karopady B.O",574279,"DAKSHINA KANNADA",KARNATAKA
+159,"Karnataka Circle","Puttur Division","Kudupallathadka B.O",574279,"DAKSHINA KANNADA",KARNATAKA
+160,"Karnataka Circle","Puttur Division","Badagannur B.O",574223,"DAKSHINA KANNADA",KARNATAKA
+161,"Karnataka Circle","Channapatna Division","Chakrabhavi B.O",562120,RAMANAGARA,KARNATAKA
+162,"Karnataka Circle","Channapatna Division","Kempasagara B.O",562120,RAMANAGARA,KARNATAKA
+163,"Karnataka Circle","Channapatna Division","Malligemetlu B.O",562121,RAMANAGARA,KARNATAKA
+164,"Karnataka Circle","Channapatna Division","Akkur B.O",562159,RAMANAGARA,KARNATAKA
+165,"Karnataka Circle","Channapatna Division","Anjanapura B.O",562159,RAMANAGARA,KARNATAKA
+166,"Karnataka Circle","Channapatna Division","Lakkojanahalli B.O",562159,RAMANAGARA,KARNATAKA
+167,"Karnataka Circle","Channapatna Division","Harobele B.O",562126,RAMANAGARA,KARNATAKA
+168,"Karnataka Circle","Channapatna Division","Kadahalli B.O",562126,RAMANAGARA,KARNATAKA
+169,"Karnataka Circle","Channapatna Division","Marikuppe B.O",562127,RAMANAGARA,KARNATAKA
+170,"Karnataka Circle","Channapatna Division","Motagondanahalli B.O",562127,RAMANAGARA,KARNATAKA
+171,"Karnataka Circle","Channapatna Division","Narasandra B.O",562127,RAMANAGARA,KARNATAKA
+172,"Karnataka Circle","Channapatna Division","Udukunte B.O",562127,RAMANAGARA,KARNATAKA
+173,"Karnataka Circle","Channapatna Division","Yennegere B.O",562127,RAMANAGARA,KARNATAKA
+174,"Karnataka Circle","Channapatna Division","Manchanabele B.O",562128,RAMANAGARA,KARNATAKA
+175,"Karnataka Circle","Channapatna Division","Mayaganahalli B.O",562128,RAMANAGARA,KARNATAKA
+176,"Karnataka Circle","Channapatna Division","Bachenahatti B.O",562120,RAMANAGARA,KARNATAKA
+177,"Karnataka Circle","Channapatna Division","Kalari B.O",562120,RAMANAGARA,KARNATAKA
+178,"Karnataka Circle","Channapatna Division","Kalludevanahalli B.O",562120,RAMANAGARA,KARNATAKA
+179,"Karnataka Circle","Channapatna Division","Avverahalli B.O",562159,RAMANAGARA,KARNATAKA
+180,"Karnataka Circle","Channapatna Division","Bilagumba B.O",562159,RAMANAGARA,KARNATAKA
+181,"Karnataka Circle","Puttur Division","Petrame B.O",574198,"DAKSHINA KANNADA",KARNATAKA
+182,"Karnataka Circle","Kalaburagi Division","Kasar Bhosga B.O",585310,KALABURAGI,KARNATAKA
+183,"Karnataka Circle","Kalaburagi Division","Mudbal B B.O",585310,KALABURAGI,KARNATAKA
+184,"Karnataka Circle","Kalaburagi Division","Sathkhed B.O",585310,KALABURAGI,KARNATAKA
+185,"Karnataka Circle","Kalaburagi Division","Soan B.O",585310,KALABURAGI,KARNATAKA
+186,"Karnataka Circle","Kalaburagi Division","Duttargaon B.O",585311,KALABURAGI,KARNATAKA
+187,"Karnataka Circle","Kalaburagi Division","Chincholi H B.O",585312,KALABURAGI,KARNATAKA
+188,"Karnataka Circle","Kalaburagi Division","Rajapur B.O",585312,KALABURAGI,KARNATAKA
+189,"Karnataka Circle","Kalaburagi Division","Kalmandargi B.O",585313,KALABURAGI,KARNATAKA
+190,"Karnataka Circle","Kalaburagi Division","Margutti B.O",585313,KALABURAGI,KARNATAKA
+191,"Karnataka Circle","Channapatna Division","Kutgal B.O",562159,RAMANAGARA,KARNATAKA
+192,"Karnataka Circle","Channapatna Division","Kabbal B.O",562126,RAMANAGARA,KARNATAKA
+193,"Karnataka Circle","Channapatna Division","Lakkenahalli B.O",562127,RAMANAGARA,KARNATAKA
+194,"Karnataka Circle","Channapatna Division","Manniganahalli B.O",562127,RAMANAGARA,KARNATAKA
+195,"Karnataka Circle","Channapatna Division","Harisandra B.O",562128,RAMANAGARA,KARNATAKA
+196,"Karnataka Circle","Channapatna Division","Baginigere B.O",562131,RAMANAGARA,KARNATAKA
+197,"Karnataka Circle","Channapatna Division","Biskur B.O",562131,RAMANAGARA,KARNATAKA
+198,"Karnataka Circle","Kalaburagi Division","Okali B.O",585313,KALABURAGI,KARNATAKA
+199,"Karnataka Circle","Kalaburagi Division","Rajnal B.O",585313,KALABURAGI,KARNATAKA
+200,"Karnataka Circle","Kalaburagi Division","Alanga B.O",585314,KALABURAGI,KARNATAKA
+201,"Karnataka Circle","Kalaburagi Division","Jawalga J B.O",585314,KALABURAGI,KARNATAKA
+202,"Karnataka Circle","Kalaburagi Division","Bablad B.O",585316,KALABURAGI,KARNATAKA
+203,"Karnataka Circle","Kalaburagi Division","Belkota B.O",585316,KALABURAGI,KARNATAKA
+204,"Karnataka Circle","Kalaburagi Division","Madki B.O",585316,KALABURAGI,KARNATAKA
+205,"Karnataka Circle","Kalaburagi Division","Muddadga B.O",585316,KALABURAGI,KARNATAKA
+206,"Karnataka Circle","Kalaburagi Division","Hosurwadi B.O",585217,KALABURAGI,KARNATAKA
+207,"Karnataka Circle","Mysuru Division","Srirampura B.O",570008,MYSURU,KARNATAKA
+208,"Karnataka Circle","Mysuru Division","Hanchya BO",570019,MYSURU,KARNATAKA
+209,"Karnataka Circle","Mysuru Division","Barse B.O",571102,MYSURU,KARNATAKA
+210,"Karnataka Circle","Belagavi Division","Turkarshigihalli B.O",591115,BELAGAVI,KARNATAKA
+211,"Karnataka Circle","Channapatna Division","Gejjagaraguppe B.O",562120,RAMANAGARA,KARNATAKA
+212,"Karnataka Circle","Channapatna Division","Harthi B.O",562120,RAMANAGARA,KARNATAKA
+213,"Karnataka Circle","Channapatna Division","Mathikere B.O",562120,RAMANAGARA,KARNATAKA
+214,"Karnataka Circle","Channapatna Division","Sathanur B.O",562120,RAMANAGARA,KARNATAKA
+215,"Karnataka Circle","Channapatna Division","Banavasi B.O",562121,RAMANAGARA,KARNATAKA
+216,"Karnataka Circle","Channapatna Division","Guttalahunase B.O",562121,RAMANAGARA,KARNATAKA
+217,"Karnataka Circle","Channapatna Division","Kallanakupppe B.O",562121,RAMANAGARA,KARNATAKA
+218,"Karnataka Circle","Channapatna Division","Doddagangawadi B.O",562159,RAMANAGARA,KARNATAKA
+219,"Karnataka Circle","Channapatna Division","Jalamangala B.O",562159,RAMANAGARA,KARNATAKA
+220,"Karnataka Circle","Channapatna Division","Kailancha B.O",562159,RAMANAGARA,KARNATAKA
+221,"Karnataka Circle","Mysuru Division","Bhuvanahalli B.O",571102,MYSURU,KARNATAKA
+222,"Karnataka Circle","Mysuru Division","Gorahalli B.O",571102,MYSURU,KARNATAKA
+223,"Karnataka Circle","Mysuru Division","Konasur B.O",571102,MYSURU,KARNATAKA
+224,"Karnataka Circle","Mysuru Division","Bolanahalli B.O",571103,MYSURU,KARNATAKA
+225,"Karnataka Circle","Mysuru Division","Chikkabeechanahalli B.O",571103,MYSURU,KARNATAKA
+226,"Karnataka Circle","Mysuru Division","Kyathanahalli B.O",570026,MYSURU,KARNATAKA
+227,"Karnataka Circle","Mysuru Division","Martikyathanahalli B.O",570026,MYSURU,KARNATAKA
+228,"Karnataka Circle","Mysuru Division","Channamgere B.O",571617,MYSURU,KARNATAKA
+229,"Karnataka Circle","Mysuru Division","Haleyur B.O",571617,MYSURU,KARNATAKA
+230,"Karnataka Circle","Mysuru Division","Mullur B.O",571610,MYSURU,KARNATAKA
+231,"Karnataka Circle","Mysuru Division","Chikkeriyur B.O",571125,MYSURU,KARNATAKA
+232,"Karnataka Circle","Mysuru Division","Kunthanabelathur B.O",571125,MYSURU,KARNATAKA
+233,"Karnataka Circle","Mysuru Division","Maddur B.O",571125,MYSURU,KARNATAKA
+234,"Karnataka Circle","Belagavi Division","Bailur B.O",591115,BELAGAVI,KARNATAKA
+235,"Karnataka Circle","Belagavi Division","Dastikop B.O",591153,BELAGAVI,KARNATAKA
+236,"Karnataka Circle","Belagavi Division","Holenaglapur B.O",591153,BELAGAVI,KARNATAKA
+237,"Karnataka Circle","Belagavi Division","Chikkop B.O",591119,BELAGAVI,KARNATAKA
+238,"Karnataka Circle","Belagavi Division","Yarzarvi B.O",591119,BELAGAVI,KARNATAKA
+239,"Karnataka Circle","Puttur Division","Karnoor B.O",574313,"DAKSHINA KANNADA",KARNATAKA
+240,"Karnataka Circle","Channapatna Division","Krishnapuradoddi B.O",562159,RAMANAGARA,KARNATAKA
+241,"Karnataka Circle","Channapatna Division","Attihalli B.O",562126,RAMANAGARA,KARNATAKA
+242,"Karnataka Circle","Channapatna Division","Banavadi B.O",562127,RAMANAGARA,KARNATAKA
+243,"Karnataka Circle","Channapatna Division","Byalakere B.O",562127,RAMANAGARA,KARNATAKA
+244,"Karnataka Circle","Channapatna Division","Huskur B.O",562162,"BENGALURU URBAN",KARNATAKA
+245,"Karnataka Circle","Channapatna Division","Lakshmipura B.O",562162,"BENGALURU URBAN",KARNATAKA
+246,"Karnataka Circle","Channapatna Division","Hadonahalli B.O",561205,"BENGALURU RURAL",KARNATAKA
+247,"Karnataka Circle","Channapatna Division","Tubugere B.O",561205,"BENGALURU RURAL",KARNATAKA
+248,"Karnataka Circle","Channapatna Division","Begur B.O",562122,"BENGALURU RURAL",KARNATAKA
+249,"Karnataka Circle","Channapatna Division","Gollahalli B.O",562123,"BENGALURU RURAL",KARNATAKA
+250,"Karnataka Circle","Channapatna Division","Honnasandra B.O",562123,"BENGALURU RURAL",KARNATAKA
+251,"Karnataka Circle","Channapatna Division","Jakkanahalli B.O",562123,"BENGALURU RURAL",KARNATAKA
+252,"Karnataka Circle","Hassan Division","Sanyasihalli B.O",573115,HASSAN,KARNATAKA
+253,"Karnataka Circle","Hassan Division","Tolalu B.O",573115,HASSAN,KARNATAKA
+254,"Karnataka Circle","Hassan Division","Gollarahosahalli B.O",573116,HASSAN,KARNATAKA
+255,"Karnataka Circle","Hassan Division","Yamasandhi B.O",573115,HASSAN,KARNATAKA
+256,"Karnataka Circle","Hassan Division","Adagur B.O",573116,HASSAN,KARNATAKA
+257,"Karnataka Circle","Hassan Division","Agrahara B.O",573116,HASSAN,KARNATAKA
+258,"Karnataka Circle","Hassan Division","Anekere B.O",573116,HASSAN,KARNATAKA
+259,"Karnataka Circle","Puttur Division","Nala B.O",574217,"DAKSHINA KANNADA",KARNATAKA
+260,"Karnataka Circle","Puttur Division","Padangady B.O",574217,"DAKSHINA KANNADA",KARNATAKA
+261,"Karnataka Circle","Puttur Division","Pilya B.O",574217,"DAKSHINA KANNADA",KARNATAKA
+262,"Karnataka Circle","Puttur Division","Sirlalu B.O",574217,"DAKSHINA KANNADA",KARNATAKA
+263,"Karnataka Circle","Puttur Division","Tenkakarandur B.O",574217,"DAKSHINA KANNADA",KARNATAKA
+264,"Karnataka Circle","Puttur Division","Vodilnala B.O",574217,"DAKSHINA KANNADA",KARNATAKA
+265,"Karnataka Circle","Puttur Division","Hariharapallathadka B.O",574218,"DAKSHINA KANNADA",KARNATAKA
+266,"Karnataka Circle","Puttur Division","Kalmakar B.O",574218,"DAKSHINA KANNADA",KARNATAKA
+267,"Karnataka Circle","Puttur Division","Kamila B.O",574218,"DAKSHINA KANNADA",KARNATAKA
+268,"Karnataka Circle","Kalaburagi Division","Bandarwad B.O",585265,KALABURAGI,KARNATAKA
+269,"Karnataka Circle","Kalaburagi Division","Aralgundagi B.O",585325,KALABURAGI,KARNATAKA
+270,"Karnataka Circle","Kalaburagi Division","Ballundagi B.O",585310,KALABURAGI,KARNATAKA
+271,"Karnataka Circle","Kalaburagi Division","Bilwar B.O",585310,KALABURAGI,KARNATAKA
+272,"Karnataka Circle","Kalaburagi Division","Koodi B.O",585310,KALABURAGI,KARNATAKA
+273,"Karnataka Circle","Kalaburagi Division","Madri B.O",585310,KALABURAGI,KARNATAKA
+274,"Karnataka Circle","Kalaburagi Division","Muthkod B.O",585310,KALABURAGI,KARNATAKA
+275,"Karnataka Circle","Kalaburagi Division","Naribol B.O",585310,KALABURAGI,KARNATAKA
+276,"Karnataka Circle","Kalaburagi Division","Lad Chincholi B.O",585311,KALABURAGI,KARNATAKA
+277,"Karnataka Circle","Kalaburagi Division","Pattan B.O",585311,KALABURAGI,KARNATAKA
+278,"Karnataka Circle","Channapatna Division","Chikkanahalli B.O",562130,"BENGALURU RURAL",KARNATAKA
+279,"Karnataka Circle","Channapatna Division","Kadabagere B.O",562130,"BENGALURU URBAN",KARNATAKA
+280,"Karnataka Circle","Channapatna Division","Kithanahalli B.O",562130,"BENGALURU URBAN",KARNATAKA
+281,"Karnataka Circle","Channapatna Division","Sondekoppa B.O",562130,"BENGALURU URBAN",KARNATAKA
+282,"Karnataka Circle","Channapatna Division","Hullegowdanahalli B.O",562162,"BENGALURU URBAN",KARNATAKA
+283,"Karnataka Circle","Channapatna Division","Makali B.O",562162,"BENGALURU URBAN",KARNATAKA
+284,"Karnataka Circle","Channapatna Division","Shivanapura B.O",562162,"BENGALURU URBAN",KARNATAKA
+285,"Karnataka Circle","Channapatna Division","Cholanayakanahally B.O",562120,"BENGALURU URBAN",KARNATAKA
+286,"Karnataka Circle","Channapatna Division","Gantiganahalli B.O",561205,"BENGALURU RURAL",KARNATAKA
+287,"Karnataka Circle","Channapatna Division","Hindiganala B.O",562122,"BENGALURU RURAL",KARNATAKA
+288,"Karnataka Circle","Channapatna Division","Korati B.O",562122,"BENGALURU RURAL",KARNATAKA
+289,"Karnataka Circle","Channapatna Division","Arasinakunte B.O",562123,"BENGALURU RURAL",KARNATAKA
+290,"Karnataka Circle","Channapatna Division","Mahadevapura B.O",562123,"BENGALURU RURAL",KARNATAKA
+291,"Karnataka Circle","Channapatna Division","Dommasandra B.O",562125,"BENGALURU URBAN",KARNATAKA
+292,"Karnataka Circle","Channapatna Division","Kugur B.O",562125,"BENGALURU URBAN",KARNATAKA
+293,"Karnataka Circle","Channapatna Division","Neriga B.O",562125,"BENGALURU URBAN",KARNATAKA
+294,"Karnataka Circle","Channapatna Division","Bendiganahalli B.O",562129,"BENGALURU RURAL",KARNATAKA
+295,"Karnataka Circle","Channapatna Division","Nelavagilu B.O",562122,"BENGALURU RURAL",KARNATAKA
+296,"Karnataka Circle","Channapatna Division","Shivanapura B.O",562122,"BENGALURU RURAL",KARNATAKA
+297,"Karnataka Circle","Channapatna Division","Tavarekere B.O",562122,"BENGALURU RURAL",KARNATAKA
+298,"Karnataka Circle","Channapatna Division","Mandigere B.O",562123,"BENGALURU RURAL",KARNATAKA
+299,"Karnataka Circle","Channapatna Division","Mylanahalli B.O",562123,"BENGALURU RURAL",KARNATAKA
+300,"Karnataka Circle","Channapatna Division","Theppadabeguru B.O",562123,"BENGALURU RURAL",KARNATAKA
+301,"Karnataka Circle","Channapatna Division","Yentiganahalli B.O",562123,"BENGALURU RURAL",KARNATAKA
+302,"Karnataka Circle","Channapatna Division","Ibasapura B.O",562129,"BENGALURU RURAL",KARNATAKA
+303,"Karnataka Circle","Channapatna Division","Reddihalli B.O",562129,"BENGALURU RURAL",KARNATAKA
+304,"Karnataka Circle","Kalaburagi Division","Suntanur B.O",585311,KALABURAGI,KARNATAKA
+305,"Karnataka Circle","Kalaburagi Division","Hebbal B.O",585312,KALABURAGI,KARNATAKA
+306,"Karnataka Circle","Kalaburagi Division","Kalagurthi B.O",585312,KALABURAGI,KARNATAKA
+307,"Karnataka Circle","Kalaburagi Division","Kodadur B.O",585312,KALABURAGI,KARNATAKA
+308,"Karnataka Circle","Kalaburagi Division","Kodli B.O",585312,KALABURAGI,KARNATAKA
+309,"Karnataka Circle","Kalaburagi Division","Kukunda B.O",585312,KALABURAGI,KARNATAKA
+310,"Karnataka Circle","Kalaburagi Division","Mangalgi B.O",585312,KALABURAGI,KARNATAKA
+311,"Karnataka Circle","Kalaburagi Division","Chengta B.O",585313,KALABURAGI,KARNATAKA
+312,"Karnataka Circle","Kalaburagi Division","Kalmood B.O",585313,KALABURAGI,KARNATAKA
+313,"Karnataka Circle","Kalaburagi Division","Sonth B.O",585313,KALABURAGI,KARNATAKA
+314,"Karnataka Circle","Kalaburagi Division","Bangarga B.O",585314,KALABURAGI,KARNATAKA
+315,"Karnataka Circle","Kalaburagi Division","Salgera V K B.O",585316,KALABURAGI,KARNATAKA
+316,"Karnataka Circle","Kalaburagi Division","Sangunda B.O",585316,KALABURAGI,KARNATAKA
+317,"Karnataka Circle","Kalaburagi Division","Arjunagi B.O",585236,KALABURAGI,KARNATAKA
+318,"Karnataka Circle","Mysuru Division","Ambalare B.O",571102,MYSURU,KARNATAKA
+319,"Karnataka Circle","Mysuru Division","Attigodu B.O",571102,MYSURU,KARNATAKA
+320,"Karnataka Circle","Mysuru Division","Nilavadi B.O",571102,MYSURU,KARNATAKA
+321,"Karnataka Circle","Mysuru Division","Sangarasettihalli B.O",571102,MYSURU,KARNATAKA
+322,"Karnataka Circle","Mysuru Division","Halebeedu B.O",571103,MYSURU,KARNATAKA
+323,"Karnataka Circle","Mysuru Division","Alanahalli B.O",570026,MYSURU,KARNATAKA
+324,"Karnataka Circle","Mysuru Division","Doddamaragowdanahalli B.O",570026,MYSURU,KARNATAKA
+325,"Karnataka Circle","Mysuru Division","G B Sargur B.O",570026,MYSURU,KARNATAKA
+326,"Karnataka Circle","Mysuru Division","Hosakote B.O",571617,MYSURU,KARNATAKA
+327,"Karnataka Circle","Mysuru Division","Karthalu B.O",571617,MYSURU,KARNATAKA
+328,"Karnataka Circle","Mysuru Division","Kittur B.O",571617,MYSURU,KARNATAKA
+329,"Karnataka Circle","Mysuru Division","Hyrige B.O",571125,MYSURU,KARNATAKA
+330,"Karnataka Circle","Mysuru Division","Jampanahalli B.O",571125,MYSURU,KARNATAKA
+331,"Karnataka Circle","Mysuru Division","Kanchamalli B.O",571125,MYSURU,KARNATAKA
+332,"Karnataka Circle","Hassan Division","Shiragura B.O",573115,HASSAN,KARNATAKA
+333,"Karnataka Circle","Hassan Division","Dindagur B.O",573116,HASSAN,KARNATAKA
+334,"Karnataka Circle","Mysuru Division","Kolagala B.O",571125,MYSURU,KARNATAKA
+335,"Karnataka Circle","Mysuru Division","Hosa Agrahara B.O",571601,MYSURU,KARNATAKA
+336,"Karnataka Circle","Mysuru Division","Kanchinakere B.O",571601,MYSURU,KARNATAKA
+337,"Karnataka Circle","Mysuru Division","Annur B.O",571114,MYSURU,KARNATAKA
+338,"Karnataka Circle","Mysuru Division","Antharasanthe B.O",571114,MYSURU,KARNATAKA
+339,"Karnataka Circle","Mysuru Division","Chakkodanahalli B.O",571114,MYSURU,KARNATAKA
+340,"Karnataka Circle","Mysuru Division","Hebbalaguppe B.O",571114,MYSURU,KARNATAKA
+341,"Karnataka Circle","Mysuru Division","Hirehalli B.O",571114,MYSURU,KARNATAKA
+342,"Karnataka Circle","Mysuru Division","Hosaholalu B.O",571114,MYSURU,KARNATAKA
+343,"Karnataka Circle","Mysuru Division","Jakkahalli B.O",571114,MYSURU,KARNATAKA
+344,"Karnataka Circle","Mysuru Division","Bannikuppe B.O",571105,MYSURU,KARNATAKA
+345,"Karnataka Circle","Mysuru Division","Beeramballi B.O",571116,MYSURU,KARNATAKA
+346,"Karnataka Circle","Mysuru Division","N Begur B.O",571116,MYSURU,KARNATAKA
+347,"Karnataka Circle","Mysuru Division","Ayyarahalli B.O",571311,MYSURU,KARNATAKA
+348,"Karnataka Circle","Mysuru Division","Doddakanya B.O",571311,MYSURU,KARNATAKA
+349,"Karnataka Circle","Mysuru Division","Hadajana B.O",571311,MYSURU,KARNATAKA
+350,"Karnataka Circle","Mysuru Division","Doddakamaravalli B.O",571187,MYSURU,KARNATAKA
+351,"Karnataka Circle","Mysuru Division","Harave B.O",571134,MYSURU,KARNATAKA
+352,"Karnataka Circle","Mysuru Division","Hirekyathanahalli B.O",571134,MYSURU,KARNATAKA
+353,"Karnataka Circle","Mysuru Division","Kothegala B.O",571134,MYSURU,KARNATAKA
+354,"Karnataka Circle","Mysuru Division","Marchahalli B.O",571602,MYSURU,KARNATAKA
+355,"Karnataka Circle","Mysuru Division","Mavathur B.O",571602,MYSURU,KARNATAKA
+356,"Karnataka Circle","Mysuru Division","Siddapura B.O",571602,MYSURU,KARNATAKA
+357,"Karnataka Circle","Mysuru Division","Tippur B.O",571602,MYSURU,KARNATAKA
+358,"Karnataka Circle","Mysuru Division","Gandanahalli B.O",571603,MYSURU,KARNATAKA
+359,"Karnataka Circle","Channapatna Division","Madavara B.O",562162,"BENGALURU URBAN",KARNATAKA
+360,"Karnataka Circle","Channapatna Division","Mathahalli B.O",562162,"BENGALURU URBAN",KARNATAKA
+361,"Karnataka Circle","Channapatna Division","Heggadahalli B.O",561205,"BENGALURU RURAL",KARNATAKA
+362,"Karnataka Circle","Channapatna Division","Bylanarasapura B.O",562122,"BENGALURU RURAL",KARNATAKA
+363,"Karnataka Circle","Channapatna Division","K.Satyavara B.O",562122,"BENGALURU RURAL",KARNATAKA
+364,"Karnataka Circle","Channapatna Division","Budihal B.O",562123,"BENGALURU RURAL",KARNATAKA
+365,"Karnataka Circle","Mysuru Division","Kamplapura B.O",571107,MYSURU,KARNATAKA
+366,"Karnataka Circle","Mysuru Division","Kandegala B.O",571107,MYSURU,KARNATAKA
+367,"Karnataka Circle","Mysuru Division","Malangi B.O",571107,MYSURU,KARNATAKA
+368,"Karnataka Circle","Mysuru Division","Mutthur B.O",571107,MYSURU,KARNATAKA
+369,"Karnataka Circle","Mysuru Division","Dharmapura B.O",571189,MYSURU,KARNATAKA
+370,"Karnataka Circle","Mysuru Division","Hundimala B.O",571189,MYSURU,KARNATAKA
+371,"Karnataka Circle","Mysuru Division","Karimuddanahalli B.O",571189,MYSURU,KARNATAKA
+372,"Karnataka Circle","Mysuru Division","Paduvakote B.O",571189,MYSURU,KARNATAKA
+373,"Karnataka Circle","Mysuru Division","Arjunahalli B.O",571601,MYSURU,KARNATAKA
+374,"Karnataka Circle","Mysuru Division","Guluvina Attiguppe B.O",571601,MYSURU,KARNATAKA
+375,"Karnataka Circle","Mysuru Division","Kallahalli B.O",571105,MYSURU,KARNATAKA
+376,"Karnataka Circle","Mysuru Division","Somanahalli B.O",571105,MYSURU,KARNATAKA
+377,"Karnataka Circle","Mysuru Division","Uddur B.O",571105,MYSURU,KARNATAKA
+378,"Karnataka Circle","Mysuru Division","Bidarahalli B.O",571116,MYSURU,KARNATAKA
+379,"Karnataka Circle","Mysuru Division","Mandakalli B.O",571311,MYSURU,KARNATAKA
+380,"Karnataka Circle","Nanjangud Division","Chikkamallapura B.O",571440,CHAMARAJANAGARA,KARNATAKA
+381,"Karnataka Circle","Nanjangud Division","Kollegal Devangapet B.O",571440,CHAMARAJANAGARA,KARNATAKA
+382,"Karnataka Circle","Puttur Division","Kollamogru B.O",574218,"DAKSHINA KANNADA",KARNATAKA
+383,"Karnataka Circle","Puttur Division","Ammunje B.O",574219,"DAKSHINA KANNADA",KARNATAKA
+384,"Karnataka Circle","Puttur Division","Badagabellur B.O",574219,"DAKSHINA KANNADA",KARNATAKA
+385,"Karnataka Circle","Puttur Division","Kodimbala B.O",574221,"DAKSHINA KANNADA",KARNATAKA
+386,"Karnataka Circle","Puttur Division","Uli B.O",574326,"DAKSHINA KANNADA",KARNATAKA
+387,"Karnataka Circle","Puttur Division","Uruvalu B.O",574326,"DAKSHINA KANNADA",KARNATAKA
+388,"Karnataka Circle","Puttur Division","Murulya B.O",574328,"DAKSHINA KANNADA",KARNATAKA
+389,"Karnataka Circle","Puttur Division","Yenmur B.O",574328,"DAKSHINA KANNADA",KARNATAKA
+390,"Karnataka Circle","Puttur Division","Shishila B.O",574198,"DAKSHINA KANNADA",KARNATAKA
+391,"Karnataka Circle","Nanjangud Division","Lokkanahalli B.O",571440,CHAMARAJANAGARA,KARNATAKA
+392,"Karnataka Circle","Nanjangud Division","Madhuvinahalli B.O",571440,CHAMARAJANAGARA,KARNATAKA
+393,"Karnataka Circle","Nanjangud Division","Mudigundam B.O",571440,CHAMARAJANAGARA,KARNATAKA
+394,"Karnataka Circle","Nanjangud Division","Palyam B.O",571440,CHAMARAJANAGARA,KARNATAKA
+395,"Karnataka Circle","Nanjangud Division","Sathegala B.O",571440,CHAMARAJANAGARA,KARNATAKA
+396,"Karnataka Circle","Nanjangud Division","Siddainapura B.O",571440,CHAMARAJANAGARA,KARNATAKA
+397,"Karnataka Circle","Nanjangud Division","Tellanur B.O",571440,CHAMARAJANAGARA,KARNATAKA
+398,"Karnataka Circle","Belagavi Division","Sangolli B.O",591115,BELAGAVI,KARNATAKA
+399,"Karnataka Circle","Belagavi Division","Veerapur B.O",591118,BELAGAVI,KARNATAKA
+400,"Karnataka Circle","Belagavi Division","Rudrapur B.O",591119,BELAGAVI,KARNATAKA
+401,"Karnataka Circle","Belagavi Division","Tadsalur B.O",591119,BELAGAVI,KARNATAKA
+402,"Karnataka Circle","Puttur Division","Kaniyur(Beltangady) B.O",574217,"DAKSHINA KANNADA",KARNATAKA
+403,"Karnataka Circle","Puttur Division","Devachalla B.O",574218,"DAKSHINA KANNADA",KARNATAKA
+404,"Karnataka Circle","Puttur Division","Madappady B.O",574218,"DAKSHINA KANNADA",KARNATAKA
+405,"Karnataka Circle","Puttur Division","Belloor B.O",574219,"DAKSHINA KANNADA",KARNATAKA
+406,"Karnataka Circle","Puttur Division","Kedila B.O",574220,"DAKSHINA KANNADA",KARNATAKA
+407,"Karnataka Circle","Puttur Division","Padnur B.O",574220,"DAKSHINA KANNADA",KARNATAKA
+408,"Karnataka Circle","Mysuru Division","Someshwarapura B.O",571311,MYSURU,KARNATAKA
+409,"Karnataka Circle","Mysuru Division","Rajanabilugali B.O",571187,MYSURU,KARNATAKA
+410,"Karnataka Circle","Mysuru Division","Basavarajapura B.O",571602,MYSURU,KARNATAKA
+411,"Karnataka Circle","Mysuru Division","Chandagala B.O",571602,MYSURU,KARNATAKA
+412,"Karnataka Circle","Mysuru Division","Kalenahalli B.O",571602,MYSURU,KARNATAKA
+413,"Karnataka Circle","Mysuru Division","Alanahlli B.O",571107,MYSURU,KARNATAKA
+414,"Karnataka Circle","Mysuru Division","Hebbathur B.O",571107,MYSURU,KARNATAKA
+415,"Karnataka Circle","Mysuru Division","Poonadahalli B.O",571107,MYSURU,KARNATAKA
+416,"Karnataka Circle","Mysuru Division","Aswalu B.O",571189,MYSURU,KARNATAKA
+417,"Karnataka Circle","Mysuru Division","Coimbatore Colony B.O",571189,MYSURU,KARNATAKA
+418,"Karnataka Circle","Mysuru Division","Arenahalli B.O",571108,MYSURU,KARNATAKA
+419,"Karnataka Circle","Mysuru Division","Kelaganahalli B.O",571108,MYSURU,KARNATAKA
+420,"Karnataka Circle","Mysuru Division","Ankanahalli B.O",571604,MYSURU,KARNATAKA
+421,"Karnataka Circle","Mysuru Division","Chikkanayakanahalli B.O",571604,MYSURU,KARNATAKA
+422,"Karnataka Circle","Mysuru Division","Mundur B.O",571604,MYSURU,KARNATAKA
+423,"Karnataka Circle","Mysuru Division","Hadanur B.O",571121,MYSURU,KARNATAKA
+424,"Karnataka Circle","Mysuru Division","Itna B.O",571121,MYSURU,KARNATAKA
+425,"Karnataka Circle","Mysuru Division","Matakere B.O",571121,MYSURU,KARNATAKA
+426,"Karnataka Circle","Mysuru Division","Nanjipura B.O",571121,MYSURU,KARNATAKA
+427,"Karnataka Circle","Mysuru Division","Daddakallahalli B.O",571130,MYSURU,KARNATAKA
+428,"Karnataka Circle","Mysuru Division","Mydanahalli B.O",571130,MYSURU,KARNATAKA
+429,"Karnataka Circle","Mysuru Division","Tattekere B.O",571106,MYSURU,KARNATAKA
+430,"Karnataka Circle","Puttur Division","Ballya B.O",574221,"DAKSHINA KANNADA",KARNATAKA
+431,"Karnataka Circle","Puttur Division","Karingana B.O",574222,"DAKSHINA KANNADA",KARNATAKA
+432,"Karnataka Circle","Puttur Division","Bandar B.O",574326,"DAKSHINA KANNADA",KARNATAKA
+433,"Karnataka Circle","Puttur Division","Barya B.O",574326,"DAKSHINA KANNADA",KARNATAKA
+434,"Karnataka Circle","Puttur Division","Charvaka B.O",574328,"DAKSHINA KANNADA",KARNATAKA
+435,"Karnataka Circle","Puttur Division","Ariadka B.O",574223,"DAKSHINA KANNADA",KARNATAKA
+436,"Karnataka Circle","Puttur Division","Arasinamakki B.O",574198,"DAKSHINA KANNADA",KARNATAKA
+437,"Karnataka Circle","Puttur Division","Shibaje B.O",574198,"DAKSHINA KANNADA",KARNATAKA
+438,"Karnataka Circle","Puttur Division","Machina B.O",574224,"DAKSHINA KANNADA",KARNATAKA
+439,"Karnataka Circle","Nanjangud Division","Kodagahalli B.O",571101,MYSURU,KARNATAKA
+440,"Karnataka Circle","Nanjangud Division","Maliyur B.O",571101,MYSURU,KARNATAKA
+441,"Karnataka Circle","Puttur Division","Kallige B.O",574219,"DAKSHINA KANNADA",KARNATAKA
+442,"Karnataka Circle","Puttur Division","Polali B.O",574219,"DAKSHINA KANNADA",KARNATAKA
+443,"Karnataka Circle","Puttur Division","Kutrupady B.O",574221,"DAKSHINA KANNADA",KARNATAKA
+444,"Karnataka Circle","Puttur Division","Noojibalthila B.O",574221,"DAKSHINA KANNADA",KARNATAKA
+445,"Karnataka Circle","Puttur Division","Renjilady B.O",574221,"DAKSHINA KANNADA",KARNATAKA
+446,"Karnataka Circle","Puttur Division","Veerakamba B.O",574222,"DAKSHINA KANNADA",KARNATAKA
+447,"Karnataka Circle","Puttur Division","Puthila B.O",574326,"DAKSHINA KANNADA",KARNATAKA
+448,"Karnataka Circle","Puttur Division","Tannirpantha B.O",574326,"DAKSHINA KANNADA",KARNATAKA
+449,"Karnataka Circle","Puttur Division","Kanakamajal B.O",574223,"DAKSHINA KANNADA",KARNATAKA
+450,"Karnataka Circle","Puttur Division","Pernaje B.O",574223,"DAKSHINA KANNADA",KARNATAKA
+451,"Karnataka Circle","Mysuru Division","Singaramaranahalli B.O",571189,MYSURU,KARNATAKA
+452,"Karnataka Circle","Mysuru Division","Haradanahalli B.O",571604,MYSURU,KARNATAKA
+453,"Karnataka Circle","Mysuru Division","Honnenahalli B.O",571604,MYSURU,KARNATAKA
+454,"Karnataka Circle","Mysuru Division","Melur B.O",571604,MYSURU,KARNATAKA
+455,"Karnataka Circle","Mysuru Division","Sigavalu B.O",571604,MYSURU,KARNATAKA
+456,"Karnataka Circle","Mysuru Division","Thandre B.O",571604,MYSURU,KARNATAKA
+457,"Karnataka Circle","Mysuru Division","Beeravalu B.O",571121,MYSURU,KARNATAKA
+458,"Karnataka Circle","Mysuru Division","Thumbasoge B.O",571121,MYSURU,KARNATAKA
+459,"Karnataka Circle","Mysuru Division","Nagawala B.O",571130,MYSURU,KARNATAKA
+460,"Karnataka Circle","Mysuru Division","S Hemmanahalli B.O",571130,MYSURU,KARNATAKA
+461,"Karnataka Circle","Mysuru Division","Neralakuppe B.O",571106,MYSURU,KARNATAKA
+462,"Karnataka Circle","Channapatna Division","Madalakote B.O",562123,"BENGALURU RURAL",KARNATAKA
+463,"Karnataka Circle","Channapatna Division","Mallarabanavadi B.O",562123,"BENGALURU RURAL",KARNATAKA
+464,"Karnataka Circle","Channapatna Division","Handenahalli B.O",562125,"BENGALURU URBAN",KARNATAKA
+465,"Karnataka Circle","Channapatna Division","Bettakote B.O",562129,"BENGALURU RURAL",KARNATAKA
+466,"Karnataka Circle","Channapatna Division","Chunchanakuppe B.O",562130,"BENGALURU URBAN",KARNATAKA
+467,"Karnataka Circle","Channapatna Division","Agalakote B.O",562120,RAMANAGARA,KARNATAKA
+468,"Karnataka Circle","Channapatna Division","Bilagumba B.O",562120,RAMANAGARA,KARNATAKA
+469,"Karnataka Circle","Channapatna Division","Kalya B.O",562120,RAMANAGARA,KARNATAKA
+470,"Karnataka Circle","Channapatna Division","Thaggikuppe B.O",562120,RAMANAGARA,KARNATAKA
+471,"Karnataka Circle","Channapatna Division","Terubeedi B.O",562121,RAMANAGARA,KARNATAKA
+472,"Karnataka Circle","Channapatna Division","Ankanahalli B.O",562159,RAMANAGARA,KARNATAKA
+473,"Karnataka Circle","Channapatna Division","Bannikuppe B.O",562159,RAMANAGARA,KARNATAKA
+474,"Karnataka Circle","Channapatna Division","Yerehalli B.O",562159,RAMANAGARA,KARNATAKA
+475,"Karnataka Circle","Channapatna Division",Jayapura,562159,RAMANAGARA,KARNATAKA
+476,"Karnataka Circle","Channapatna Division","Chikkalahalli B.O",562126,RAMANAGARA,KARNATAKA
+477,"Karnataka Circle","Channapatna Division","Honniganahalli B.O",562126,RAMANAGARA,KARNATAKA
+478,"Karnataka Circle","Channapatna Division","Gudemaranahalli B.O",562127,RAMANAGARA,KARNATAKA
+479,"Karnataka Circle","Channapatna Division","Madigondanahalli B.O",562127,RAMANAGARA,KARNATAKA
+480,"Karnataka Circle","Channapatna Division","Hagalahalli B.O",562128,RAMANAGARA,KARNATAKA
+481,"Karnataka Circle","Channapatna Division","Hullenahalli B.O",562131,RAMANAGARA,KARNATAKA
+482,"Karnataka Circle","Channapatna Division","Sankighatta B.O",562131,RAMANAGARA,KARNATAKA
+483,"Karnataka Circle","Channapatna Division","Madabal B.O",561201,RAMANAGARA,KARNATAKA
+484,"Karnataka Circle","Channapatna Division","Thimmasandra B.O",561201,RAMANAGARA,KARNATAKA
+485,"Karnataka Circle","Channapatna Division","Doddasomanahalli B.O",562131,RAMANAGARA,KARNATAKA
+486,"Karnataka Circle","Channapatna Division","Gangonahalli B.O",562131,RAMANAGARA,KARNATAKA
+487,"Karnataka Circle","Bagalkot Division","Hulaginal B.O",587112,BAGALKOTE,KARNATAKA
+488,"Karnataka Circle","Bagalkot Division","Iddalgi B.O",587112,BAGALKOTE,KARNATAKA
+489,"Karnataka Circle","Bagalkot Division","Rakkasagi B.O",587112,BAGALKOTE,KARNATAKA
+490,"Karnataka Circle","Mysuru Division","Gurur B.O",570008,MYSURU,KARNATAKA
+491,"Karnataka Circle","Mysuru Division","Naganahalli B.O",570003,MYSURU,KARNATAKA
+492,"Karnataka Circle","Mysuru Division","Koorgalli B.O",570018,MYSURU,KARNATAKA
+493,"Karnataka Circle","Mysuru Division","Haradur B.O",571102,MYSURU,KARNATAKA
+494,"Karnataka Circle","Mysuru Division","Kothavalli B.O",571102,MYSURU,KARNATAKA
+495,"Karnataka Circle","Mysuru Division","Melur B.O",571102,MYSURU,KARNATAKA
+496,"Karnataka Circle","Mysuru Division","Manuganahalli B.O",571103,MYSURU,KARNATAKA
+497,"Karnataka Circle","Mysuru Division","Shanuboganahalli B.O",571103,MYSURU,KARNATAKA
+498,"Karnataka Circle","Mysuru Division","Kailasapura B.O",571104,MYSURU,KARNATAKA
+499,"Karnataka Circle","Mysuru Division","Koppa B.O",571104,MYSURU,KARNATAKA
+500,"Karnataka Circle","Kalaburagi Division","Harsoor B.O",585102,KALABURAGI,KARNATAKA
+501,"Karnataka Circle","Kalaburagi Division","Ankalgi B.O",585212,KALABURAGI,KARNATAKA
+502,"Karnataka Circle","Kalaburagi Division","Ghangapur Sangam B.O",585212,KALABURAGI,KARNATAKA
+503,"Karnataka Circle","Kalaburagi Division","Chinamgera B.O",585265,KALABURAGI,KARNATAKA
+504,"Karnataka Circle","Kalaburagi Division","Sagnoor B.O",585265,KALABURAGI,KARNATAKA
+505,"Karnataka Circle","Kalaburagi Division","Chik Kallur B.O",585310,KALABURAGI,KARNATAKA
+506,"Karnataka Circle","Kalaburagi Division","Jeratagi B.O",585310,KALABURAGI,KARNATAKA
+507,"Karnataka Circle","Kalaburagi Division","Kalhangarga B.O",585310,KALABURAGI,KARNATAKA
+508,"Karnataka Circle","Kalaburagi Division","Mandewal B.O",585310,KALABURAGI,KARNATAKA
+509,"Karnataka Circle","Kalaburagi Division","Rasanagi B.O",585310,KALABURAGI,KARNATAKA
+510,"Karnataka Circle","Kalaburagi Division","Yelwar B.O",585310,KALABURAGI,KARNATAKA
+511,"Karnataka Circle","Kalaburagi Division","Gola B B.O",585311,KALABURAGI,KARNATAKA
+512,"Karnataka Circle","Kalaburagi Division","Narona B.O",585311,KALABURAGI,KARNATAKA
+513,"Karnataka Circle","Kalaburagi Division","Bolewad B.O",585312,KALABURAGI,KARNATAKA
+514,"Karnataka Circle","Kalaburagi Division","Gotur B.O",585312,KALABURAGI,KARNATAKA
+515,"Karnataka Circle","Kalaburagi Division","Korwar B.O",585312,KALABURAGI,KARNATAKA
+516,"Karnataka Circle","Kalaburagi Division","Mattimadu B.O",585312,KALABURAGI,KARNATAKA
+517,"Karnataka Circle","Kalaburagi Division","Chandankera B.O",585313,KALABURAGI,KARNATAKA
+518,"Karnataka Circle","Kalaburagi Division","Kinnisadak B.O",585313,KALABURAGI,KARNATAKA
+519,"Karnataka Circle","Kalaburagi Division","Patwada B.O",585313,KALABURAGI,KARNATAKA
+520,"Karnataka Circle","Kalaburagi Division","Anoor B.O",585314,KALABURAGI,KARNATAKA
+521,"Karnataka Circle","Kalaburagi Division","Hodlur B.O",585314,KALABURAGI,KARNATAKA
+522,"Karnataka Circle","Kalaburagi Division","Tadola B.O",585314,KALABURAGI,KARNATAKA
+523,"Karnataka Circle","Nanjangud Division","Doddamulagodu B.O",571101,MYSURU,KARNATAKA
+524,"Karnataka Circle","Nanjangud Division","Heggur B.O",571101,MYSURU,KARNATAKA
+525,"Karnataka Circle","Kalaburagi Division","Ambalga B.O",585316,KALABURAGI,KARNATAKA
+526,"Karnataka Circle","Kalaburagi Division","Belambagi B.O",585316,KALABURAGI,KARNATAKA
+527,"Karnataka Circle","Kalaburagi Division","Sirchand B.O",585316,KALABURAGI,KARNATAKA
+528,"Karnataka Circle","Kalaburagi Division","Karajagi B.O",585217,KALABURAGI,KARNATAKA
+529,"Karnataka Circle","Belagavi Division","Ugarkhod B.O",591115,BELAGAVI,KARNATAKA
+530,"Karnataka Circle","Belagavi Division","Hunshikatti B.O",591153,BELAGAVI,KARNATAKA
+531,"Karnataka Circle","Belagavi Division","Kadrolli B.O",591153,BELAGAVI,KARNATAKA
+532,"Karnataka Circle","Belagavi Division","Turmuri B.O",591153,BELAGAVI,KARNATAKA
+533,"Karnataka Circle","Belagavi Division","Markumbi B.O",591119,BELAGAVI,KARNATAKA
+534,"Karnataka Circle","Belagavi Division","Nugganatti B.O",591119,BELAGAVI,KARNATAKA
+535,"Karnataka Circle","Bagalkot Division","Adagal B.O",587201,BAGALKOTE,KARNATAKA
+536,"Karnataka Circle","Bagalkot Division","Bachingudd B.O",587201,BAGALKOTE,KARNATAKA
+537,"Karnataka Circle","Bagalkot Division","Muttalgeri B.O",587201,BAGALKOTE,KARNATAKA
+538,"Karnataka Circle","Bagalkot Division","Nandikeshwar B.O",587201,BAGALKOTE,KARNATAKA
+539,"Karnataka Circle","Bagalkot Division","Shirbadagi B.O",587201,BAGALKOTE,KARNATAKA
+540,"Karnataka Circle","Bagalkot Division","Yaragoppa B.O",587201,BAGALKOTE,KARNATAKA
+541,"Karnataka Circle","Bagalkot Division","Chikhodlur B.O",587111,BAGALKOTE,KARNATAKA
+542,"Karnataka Circle","Bagalkot Division","Honnakatti B.O",587111,BAGALKOTE,KARNATAKA
+543,"Karnataka Circle","Bagalkot Division","Illal B.O",587111,BAGALKOTE,KARNATAKA
+544,"Karnataka Circle","Bagalkot Division","Jadramkunti B.O",587111,BAGALKOTE,KARNATAKA
+545,"Karnataka Circle","Channapatna Division","Channarayapatna B.O",562135,"BENGALURU RURAL",KARNATAKA
+546,"Karnataka Circle","Channapatna Division","Venkatagirikote B.O",562164,"BENGALURU RURAL",KARNATAKA
+547,"Karnataka Circle","Channapatna Division","Bijjawara B.O",562164,"BENGALURU RURAL",KARNATAKA
+548,"Karnataka Circle","Channapatna Division","Bidalur B.O",562164,"BENGALURU RURAL",KARNATAKA
+549,"Karnataka Circle","Channapatna Division","Basettihalli B.O",562163,"BENGALURU RURAL",KARNATAKA
+550,"Karnataka Circle","Channapatna Division","Doddatumkur B.O",562163,"BENGALURU RURAL",KARNATAKA
+551,"Karnataka Circle","Channapatna Division","Soladevanahalli B.O",562130,"BENGALURU RURAL",KARNATAKA
+552,"Karnataka Circle","Mysuru Division","Ankanahalli B.O",571617,MYSURU,KARNATAKA
+553,"Karnataka Circle","Mysuru Division","Hadya B.O",571617,MYSURU,KARNATAKA
+554,"Karnataka Circle","Mysuru Division","Kolur B.O",571617,MYSURU,KARNATAKA
+555,"Karnataka Circle","Mysuru Division","Kuppe B.O",571617,MYSURU,KARNATAKA
+556,"Karnataka Circle","Mysuru Division","Chikkadaganahalli B.O",571610,MYSURU,KARNATAKA
+557,"Karnataka Circle","Mysuru Division","Thondalu B.O",571610,MYSURU,KARNATAKA
+558,"Karnataka Circle","Mysuru Division","Munjanahalli B.O",571601,MYSURU,KARNATAKA
+559,"Karnataka Circle","Mysuru Division","Matakere B.O",571114,MYSURU,KARNATAKA
+560,"Karnataka Circle","Mysuru Division","Metikuppe B.O",571114,MYSURU,KARNATAKA
+561,"Karnataka Circle","Mysuru Division","Naganahalli B.O",571114,MYSURU,KARNATAKA
+562,"Karnataka Circle","Mysuru Division","Nisana Belathur B.O",571114,MYSURU,KARNATAKA
+563,"Karnataka Circle","Mysuru Division","Hareenahalli B.O",571105,MYSURU,KARNATAKA
+564,"Karnataka Circle","Mysuru Division","Maradur B.O",571105,MYSURU,KARNATAKA
+565,"Karnataka Circle","Mysuru Division","Nallurpala B.O",571105,MYSURU,KARNATAKA
+566,"Karnataka Circle","Mysuru Division","Sindhuvalli B.O",571311,MYSURU,KARNATAKA
+567,"Karnataka Circle","Mysuru Division","Dornahalli B.O",571602,MYSURU,KARNATAKA
+568,"Karnataka Circle","Mysuru Division","Hebbalu B.O",571602,MYSURU,KARNATAKA
+569,"Karnataka Circle","Mysuru Division","Hosur Kallahalli B.O",571602,MYSURU,KARNATAKA
+570,"Karnataka Circle","Mysuru Division","Kaggere B.O",571602,MYSURU,KARNATAKA
+571,"Karnataka Circle","Mysuru Division","Kellur B.O",571108,MYSURU,KARNATAKA
+572,"Karnataka Circle","Mysuru Division","Makodu B.O",571108,MYSURU,KARNATAKA
+573,"Karnataka Circle","Mysuru Division","Thammadahalli B.O",571108,MYSURU,KARNATAKA
+574,"Karnataka Circle","Kalaburagi Division","Hadagil Haruthi B.O",585102,KALABURAGI,KARNATAKA
+575,"Karnataka Circle","Kalaburagi Division","Nandikur B.O",585102,KALABURAGI,KARNATAKA
+576,"Karnataka Circle","Kalaburagi Division","Ptc Naganahalli B.O",585102,KALABURAGI,KARNATAKA
+577,"Karnataka Circle","Kalaburagi Division","Sannur B.O",585102,KALABURAGI,KARNATAKA
+578,"Karnataka Circle","Kalaburagi Division","Savalgi B.O",585102,KALABURAGI,KARNATAKA
+579,"Karnataka Circle","Kalaburagi Division","Srinivasa Saradagi B.O",585102,KALABURAGI,KARNATAKA
+580,"Karnataka Circle","Kalaburagi Division","Hullur B.O",585212,KALABURAGI,KARNATAKA
+581,"Karnataka Circle","Kalaburagi Division","Itagi B.O",585212,KALABURAGI,KARNATAKA
+582,"Karnataka Circle","Kalaburagi Division","Tellur B.O",585212,KALABURAGI,KARNATAKA
+583,"Karnataka Circle","Kalaburagi Division","Bhairamadgi B.O",585265,KALABURAGI,KARNATAKA
+584,"Karnataka Circle","Kalaburagi Division","Hasargundagi B.O",585265,KALABURAGI,KARNATAKA
+585,"Karnataka Circle","Kalaburagi Division","Havnoor B.O",585265,KALABURAGI,KARNATAKA
+586,"Karnataka Circle","Kalaburagi Division","Hire Heroor B.O",585265,KALABURAGI,KARNATAKA
+587,"Karnataka Circle","Kalaburagi Division","Jogur B.O",585265,KALABURAGI,KARNATAKA
+588,"Karnataka Circle","Kalaburagi Division","Gudur B.O",585310,KALABURAGI,KARNATAKA
+589,"Karnataka Circle","Kalaburagi Division","Harwal B.O",585310,KALABURAGI,KARNATAKA
+590,"Karnataka Circle","Kalaburagi Division","Hipparga J B.O",585310,KALABURAGI,KARNATAKA
+591,"Karnataka Circle","Kalaburagi Division","Kattisangavi B.O",585310,KALABURAGI,KARNATAKA
+592,"Karnataka Circle","Kalaburagi Division","Kolkur B.O",585310,KALABURAGI,KARNATAKA
+593,"Karnataka Circle","Kalaburagi Division","Nelogi B.O",585310,KALABURAGI,KARNATAKA
+594,"Karnataka Circle","Kalaburagi Division","Raddewadgi B.O",585310,KALABURAGI,KARNATAKA
+595,"Karnataka Circle","Kalaburagi Division","Bhimalli B.O",585311,KALABURAGI,KARNATAKA
+596,"Karnataka Circle","Kalaburagi Division","Dannur B.O",585311,KALABURAGI,KARNATAKA
+597,"Karnataka Circle","Kalaburagi Division","Yedga B.O",585312,KALABURAGI,KARNATAKA
+598,"Karnataka Circle","Kalaburagi Division","Dongargaon B.O",585313,KALABURAGI,KARNATAKA
+599,"Karnataka Circle","Kalaburagi Division","Holkunda B.O",585313,KALABURAGI,KARNATAKA
+600,"Karnataka Circle","Kalaburagi Division","Jeevanagi B.O",585313,KALABURAGI,KARNATAKA
+601,"Karnataka Circle","Kalaburagi Division","Jamaga R B.O",585314,KALABURAGI,KARNATAKA
+602,"Karnataka Circle","Kalaburagi Division","Kotanhipparga B.O",585314,KALABURAGI,KARNATAKA
+603,"Karnataka Circle","Kalaburagi Division","Rudrawadi B.O",585314,KALABURAGI,KARNATAKA
+604,"Karnataka Circle","Kalaburagi Division","Bilgunda B.O",585316,KALABURAGI,KARNATAKA
+605,"Karnataka Circle","Kalaburagi Division","Hireaurad B.O",585316,KALABURAGI,KARNATAKA
+606,"Karnataka Circle","Kalaburagi Division","Kurikota B.O",585316,KALABURAGI,KARNATAKA
+607,"Karnataka Circle","Bagalkot Division","Guddadmallapur B.O",587114,BAGALKOTE,KARNATAKA
+608,"Karnataka Circle","Bagalkot Division","Hosur B.O",587114,BAGALKOTE,KARNATAKA
+609,"Karnataka Circle","Bagalkot Division","Jalihal B.O",587114,BAGALKOTE,KARNATAKA
+610,"Karnataka Circle","Bagalkot Division","Herkal B.O",587102,BAGALKOTE,KARNATAKA
+611,"Karnataka Circle","Bagalkot Division","Sorakoppa B.O",587102,BAGALKOTE,KARNATAKA
+612,"Karnataka Circle","Bagalkot Division","Cholachagudd B.O",587201,BAGALKOTE,KARNATAKA
+613,"Karnataka Circle","Bagalkot Division","Jakanur B.O",587201,BAGALKOTE,KARNATAKA
+614,"Karnataka Circle","Bagalkot Division","Kabbalgerii B.O",587201,BAGALKOTE,KARNATAKA
+615,"Karnataka Circle","Bagalkot Division","Kirsur B.O",587111,BAGALKOTE,KARNATAKA
+616,"Karnataka Circle","Bagalkot Division","Mallapur B.O",587111,BAGALKOTE,KARNATAKA
+617,"Karnataka Circle","Bagalkot Division","Muchakandi B.O",587111,BAGALKOTE,KARNATAKA
+618,"Karnataka Circle","Bagalkot Division","Haveli B.O",587103,BAGALKOTE,KARNATAKA
+619,"Karnataka Circle","Bagalkot Division","Choudapur B.O",587115,BAGALKOTE,KARNATAKA
+620,"Karnataka Circle","Bagalkot Division","Hiremalgavi B.O",587115,BAGALKOTE,KARNATAKA
+621,"Karnataka Circle","Bagalkot Division","Huvanur B.O",587115,BAGALKOTE,KARNATAKA
+622,"Karnataka Circle","Bagalkot Division","Sangam B.O",587115,BAGALKOTE,KARNATAKA
+623,"Karnataka Circle","Bagalkot Division","Ilal B.O",587202,BAGALKOTE,KARNATAKA
+624,"Karnataka Circle","Bagalkot Division","Mangalgudda B.O",587202,BAGALKOTE,KARNATAKA
+625,"Karnataka Circle","Bagalkot Division","Murdi B.O",587202,BAGALKOTE,KARNATAKA
+626,"Karnataka Circle","Bagalkot Division","Wadageri B.O",587202,BAGALKOTE,KARNATAKA
+627,"Karnataka Circle","Bagalkot Division","Parvati B.O",587203,BAGALKOTE,KARNATAKA
+628,"Karnataka Circle","Bagalkot Division","Togunshi B.O",587203,BAGALKOTE,KARNATAKA
+629,"Karnataka Circle","Bagalkot Division","Haunsnur B.O",587203,BAGALKOTE,KARNATAKA
+630,"Karnataka Circle","Gadag Division","Kognur B.O",582112,GADAG,KARNATAKA
+631,"Karnataka Circle","Nanjangud Division","Kempanapalya B.O",571440,CHAMARAJANAGARA,KARNATAKA
+632,"Karnataka Circle","Nanjangud Division","Kothanur B.O",571440,CHAMARAJANAGARA,KARNATAKA
+633,"Karnataka Circle","Nanjangud Division","Sargur Kollegal B.O",571440,CHAMARAJANAGARA,KARNATAKA
+634,"Karnataka Circle","Gadag Division","Tarikoppa B.O",582112,GADAG,KARNATAKA
+635,"Karnataka Circle","Gadag Division","Bardur B.O",582113,GADAG,KARNATAKA
+636,"Karnataka Circle","Gadag Division","Gujamagadi B.O",582102,GADAG,KARNATAKA
+637,"Karnataka Circle","Gadag Division","Hirekoppa B.O",582102,GADAG,KARNATAKA
+638,"Karnataka Circle","Gadag Division","Huilgol B.O",582102,GADAG,KARNATAKA
+639,"Karnataka Circle","Gadag Division","Kadadi B.O",582102,GADAG,KARNATAKA
+640,"Karnataka Circle","Gadag Division","Doni B.O",582103,GADAG,KARNATAKA
+641,"Karnataka Circle","Gadag Division","Gadag Gangapurpeth B.O",582103,GADAG,KARNATAKA
+642,"Karnataka Circle","Gadag Division","Nagavi B.O",582103,GADAG,KARNATAKA
+643,"Karnataka Circle","Gadag Division","Papanashi B.O",582103,GADAG,KARNATAKA
+644,"Karnataka Circle","Gadag Division","Singatarayanakeri B.O",582103,GADAG,KARNATAKA
+645,"Karnataka Circle","Gadag Division","Asuti B.O",582203,GADAG,KARNATAKA
+646,"Karnataka Circle","Gadag Division","Holemannur B.O",582203,GADAG,KARNATAKA
+647,"Karnataka Circle","Gadag Division","Shagoti B.O",582205,GADAG,KARNATAKA
+648,"Karnataka Circle","Gadag Division","Halligudi B.O",582115,GADAG,KARNATAKA
+649,"Karnataka Circle","Gadag Division","Jakkali B.O",582111,GADAG,KARNATAKA
+650,"Karnataka Circle","Gadag Division","Hebbal B.O",582112,GADAG,KARNATAKA
+651,"Karnataka Circle","Gadag Division","Hullur B.O",582112,GADAG,KARNATAKA
+652,"Karnataka Circle","Gadag Division","Itagi B.O",582112,GADAG,KARNATAKA
+653,"Karnataka Circle","Kalaburagi Division","Hemnoor B.O",585304,YADGIR,KARNATAKA
+654,"Karnataka Circle","Kalaburagi Division","Kollur B.O",585304,YADGIR,KARNATAKA
+655,"Karnataka Circle","Kalaburagi Division","Manikgiri B.O",585214,YADGIR,KARNATAKA
+656,"Karnataka Circle","Kalaburagi Division","M. T palli B.O",585214,YADGIR,KARNATAKA
+657,"Karnataka Circle","Kalaburagi Division","Yadlapur B.O",585214,YADGIR,KARNATAKA
+658,"Karnataka Circle","Kalaburagi Division","Malnoor B.O",585215,YADGIR,KARNATAKA
+659,"Karnataka Circle","Kalaburagi Division","Srinivasapur B.O",585215,YADGIR,KARNATAKA
+660,"Karnataka Circle","Kalaburagi Division","Vajjal B.O",585215,YADGIR,KARNATAKA
+661,"Karnataka Circle","Dharwad Division","Kotur B.O",580011,DHARWAD,KARNATAKA
+662,"Karnataka Circle","Dharwad Division","Chikkamalligawad B.O",580007,DHARWAD,KARNATAKA
+663,"Karnataka Circle","Dharwad Division","Dharwad Farm B.O",580007,DHARWAD,KARNATAKA
+664,"Karnataka Circle","Dharwad Division","Dharwad Gtc B.O",580007,DHARWAD,KARNATAKA
+665,"Karnataka Circle","Dharwad Division","Honnapur B.O",580007,DHARWAD,KARNATAKA
+666,"Karnataka Circle","Dharwad Division","Shivalli B.O",580112,DHARWAD,KARNATAKA
+667,"Karnataka Circle","Dharwad Division","Kittur B.O",582201,DHARWAD,KARNATAKA
+668,"Karnataka Circle","Dharwad Division","Kondikoppa B.O",582201,DHARWAD,KARNATAKA
+669,"Karnataka Circle","Dharwad Division","Saswihalli B.O",582201,DHARWAD,KARNATAKA
+670,"Karnataka Circle","Dharwad Division","Gopankoppa B.O",580023,DHARWAD,KARNATAKA
+671,"Karnataka Circle","Dharwad Division","Nalawadi B.O",580023,DHARWAD,KARNATAKA
+672,"Karnataka Circle","Dharwad Division","Baradwad B.O",581195,DHARWAD,KARNATAKA
+673,"Karnataka Circle","Dharwad Division","Majjigudda B.O",582201,DHARWAD,KARNATAKA
+674,"Karnataka Circle","Dharwad Division","Rottigawad B.O",581195,DHARWAD,KARNATAKA
+675,"Karnataka Circle","Dharwad Division","Kamadolli B.O",581113,DHARWAD,KARNATAKA
+676,"Karnataka Circle","Dharwad Division","Shirur B.O",581113,DHARWAD,KARNATAKA
+677,"Karnataka Circle","Dharwad Division","Belavatgi B.O",582208,DHARWAD,KARNATAKA
+678,"Karnataka Circle","Dharwad Division","Tadahal B.O",582208,DHARWAD,KARNATAKA
+679,"Karnataka Circle","Dharwad Division","Yamanur B.O",582208,DHARWAD,KARNATAKA
+680,"Karnataka Circle","Dharwad Division","Guddadhulikatti B.O",580024,DHARWAD,KARNATAKA
+681,"Karnataka Circle","Dharwad Division","Katnur B.O",580024,DHARWAD,KARNATAKA
+682,"Karnataka Circle","Dharwad Division","Malali B.O",580024,DHARWAD,KARNATAKA
+683,"Karnataka Circle","Dharwad Division","Yerebudhihal B.O",581117,DHARWAD,KARNATAKA
+684,"Karnataka Circle","Channapatna Division","Doddabele B.O",562132,"BENGALURU RURAL",KARNATAKA
+685,"Karnataka Circle","Channapatna Division","Manne B.O",562132,"BENGALURU RURAL",KARNATAKA
+686,"Karnataka Circle","Channapatna Division","Niduvanda B.O",562132,"BENGALURU RURAL",KARNATAKA
+687,"Karnataka Circle","Channapatna Division","Harohalli B.O",562135,"BENGALURU RURAL",KARNATAKA
+688,"Karnataka Circle","Channapatna Division","Koira B.O",562164,"BENGALURU RURAL",KARNATAKA
+689,"Karnataka Circle","Channapatna Division","Konnagatta B.O",562163,"BENGALURU RURAL",KARNATAKA
+690,"Karnataka Circle","Channapatna Division","Shivapura B.O",562163,"BENGALURU RURAL",KARNATAKA
+691,"Karnataka Circle","Channapatna Division","Veerapura B.O",562163,"BENGALURU RURAL",KARNATAKA
+692,"Karnataka Circle","Dharwad Division","Narendra B.O",580005,DHARWAD,KARNATAKA
+693,"Karnataka Circle","Dharwad Division","G Basavanakoppa B.O",580114,DHARWAD,KARNATAKA
+694,"Karnataka Circle","Dharwad Division","Gambhyapur B.O",580114,DHARWAD,KARNATAKA
+695,"Karnataka Circle","Dharwad Division","Hirehonnihalli B.O",580114,DHARWAD,KARNATAKA
+696,"Karnataka Circle","Dharwad Division","Kanavihonnapur B.O",580114,DHARWAD,KARNATAKA
+697,"Karnataka Circle","Dharwad Division","Madhanabhavi B.O",581105,DHARWAD,KARNATAKA
+698,"Karnataka Circle","Dharwad Division","Tadakod B.O",581105,DHARWAD,KARNATAKA
+699,"Karnataka Circle","Dharwad Division","Devarahubballi B.O",580118,DHARWAD,KARNATAKA
+700,"Karnataka Circle","Dharwad Division","Nigadi B.O",580118,DHARWAD,KARNATAKA
+701,"Karnataka Circle","Dharwad Division","Salakinkoppa B.O",580118,DHARWAD,KARNATAKA
+702,"Karnataka Circle","Dharwad Division","Bammigatti B.O",581204,DHARWAD,KARNATAKA
+703,"Karnataka Circle","Dharwad Division","Begur B.O",581204,DHARWAD,KARNATAKA
+704,"Karnataka Circle","Dharwad Division","Biravalli B.O",581204,DHARWAD,KARNATAKA
+705,"Karnataka Circle","Dharwad Division","Jinnur B.O",581204,DHARWAD,KARNATAKA
+706,"Karnataka Circle","Dharwad Division","Kalakundi B.O",581204,DHARWAD,KARNATAKA
+707,"Karnataka Circle","Dharwad Division","Mukkal B.O",581204,DHARWAD,KARNATAKA
+708,"Karnataka Circle","Dharwad Division","Muttagi B.O",581204,DHARWAD,KARNATAKA
+709,"Karnataka Circle","Dharwad Division","Sulikatti B.O",581204,DHARWAD,KARNATAKA
+710,"Karnataka Circle","Dharwad Division","Hebballi B.O",580112,DHARWAD,KARNATAKA
+711,"Karnataka Circle","Dharwad Division","Maradagi B.O",580112,DHARWAD,KARNATAKA
+712,"Karnataka Circle","Dharwad Division","Agadi B.O",581207,DHARWAD,KARNATAKA
+713,"Karnataka Circle","Dharwad Division","Betdur B.O",581207,DHARWAD,KARNATAKA
+714,"Karnataka Circle","Dharwad Division","Chebbi B.O",581207,DHARWAD,KARNATAKA
+715,"Karnataka Circle","Dharwad Division","Varur B.O",581207,DHARWAD,KARNATAKA
+716,"Karnataka Circle","Dharwad Division","Goudageri B.O",581107,DHARWAD,KARNATAKA
+717,"Karnataka Circle","Dharwad Division","Kusugal B.O",580023,DHARWAD,KARNATAKA
+718,"Karnataka Circle","Dharwad Division","Mantur B.O",580023,DHARWAD,KARNATAKA
+719,"Karnataka Circle","Dharwad Division","Ingalgi B.O",580028,DHARWAD,KARNATAKA
+720,"Karnataka Circle","Dharwad Division","Kubihal B.O",580028,DHARWAD,KARNATAKA
+721,"Karnataka Circle","Dharwad Division","Amragol B.O",580025,DHARWAD,KARNATAKA
+722,"Karnataka Circle","Dharwad Division","B K Tarlagatta B.O",581113,DHARWAD,KARNATAKA
+723,"Karnataka Circle","Dharwad Division","Chakalabbi B.O",581113,DHARWAD,KARNATAKA
+724,"Karnataka Circle","Dharwad Division","Ganjigatti B.O",581196,DHARWAD,KARNATAKA
+725,"Karnataka Circle","Dharwad Division","Surashettikoppa B.O",581196,DHARWAD,KARNATAKA
+726,"Karnataka Circle","Dharwad Division","Kamadenu B.O",581196,DHARWAD,KARNATAKA
+727,"Karnataka Circle","Dharwad Division","Ugginakeri B.O",581196,DHARWAD,KARNATAKA
+728,"Karnataka Circle","Dharwad Division","Datnal B.O",582208,DHARWAD,KARNATAKA
+729,"Karnataka Circle","Dharwad Division","Gudisagar B.O",582208,DHARWAD,KARNATAKA
+730,"Karnataka Circle","Dharwad Division","Halekusugal B.O",582208,DHARWAD,KARNATAKA
+731,"Karnataka Circle","Dharwad Division","Kalwad B.O",582208,DHARWAD,KARNATAKA
+732,"Karnataka Circle","Kalaburagi Division","Alhal B.O",585216,YADGIR,KARNATAKA
+733,"Karnataka Circle","Kalaburagi Division","Amlihal B.O",585216,YADGIR,KARNATAKA
+734,"Karnataka Circle","Kalaburagi Division","Hegganadoddi B.O",585216,YADGIR,KARNATAKA
+735,"Karnataka Circle","Kalaburagi Division","Kembhavi Sanjeev Nagar B.O",585216,YADGIR,KARNATAKA
+736,"Karnataka Circle","Kalaburagi Division","Bappargi B.O",585237,YADGIR,KARNATAKA
+737,"Karnataka Circle","Kalaburagi Division","Bardevanal B.O",585237,YADGIR,KARNATAKA
+738,"Karnataka Circle","Dharwad Division","Naiknur B.O",582208,DHARWAD,KARNATAKA
+739,"Karnataka Circle","Dharwad Division","Shanawad B.O",582208,DHARWAD,KARNATAKA
+740,"Karnataka Circle","Dharwad Division","Rayanal B.O",580024,DHARWAD,KARNATAKA
+741,"Karnataka Circle","Dharwad Division","Pashupatihal B.O",581117,DHARWAD,KARNATAKA
+742,"Karnataka Circle","Channapatna Division","Attimagere B.O",561201,RAMANAGARA,KARNATAKA
+743,"Karnataka Circle","Channapatna Division","Lakshmipura B.O",561201,RAMANAGARA,KARNATAKA
+744,"Karnataka Circle","Channapatna Division","Kalalaghatta B.O",562132,"BENGALURU RURAL",KARNATAKA
+745,"Karnataka Circle","Channapatna Division","Obalapura B.O",562132,"BENGALURU RURAL",KARNATAKA
+746,"Karnataka Circle","Channapatna Division","Mandibele B.O",562135,"BENGALURU RURAL",KARNATAKA
+747,"Karnataka Circle","Channapatna Division","Narayanapura B.O",562135,"BENGALURU RURAL",KARNATAKA
+748,"Karnataka Circle","Channapatna Division","Karahalli B.O",562164,"BENGALURU RURAL",KARNATAKA
+749,"Karnataka Circle","Channapatna Division","Arakere B.O",562163,"BENGALURU URBAN",KARNATAKA
+750,"Karnataka Circle","Gadag Division","Koujageri B.O",582202,GADAG,KARNATAKA
+751,"Karnataka Circle","Gadag Division","Y S Hadagali B.O",582202,GADAG,KARNATAKA
+752,"Karnataka Circle","Gadag Division","Yavagal B.O",582202,GADAG,KARNATAKA
+753,"Karnataka Circle","Gadag Division","Pethalur B.O",582113,GADAG,KARNATAKA
+754,"Karnataka Circle","Gadag Division","Venkatapur B.O",582113,GADAG,KARNATAKA
+755,"Karnataka Circle","Gadag Division","Yeribeleri B.O",582102,GADAG,KARNATAKA
+756,"Karnataka Circle","Gadag Division","Neeralagi B.O",582102,GADAG,KARNATAKA
+757,"Karnataka Circle","Bagalkot Division","Bevinmatti B.O",587112,BAGALKOTE,KARNATAKA
+758,"Karnataka Circle","Bagalkot Division","Hadagalli B.O",587112,BAGALKOTE,KARNATAKA
+759,"Karnataka Circle","Bagalkot Division","Chikmuchalgudda B.O",587201,BAGALKOTE,KARNATAKA
+760,"Karnataka Circle","Bagalkot Division","Halkurki B.O",587201,BAGALKOTE,KARNATAKA
+761,"Karnataka Circle","Bagalkot Division","Hullikeri B.O",587201,BAGALKOTE,KARNATAKA
+762,"Karnataka Circle","Bagalkot Division","Katarki B.O",587201,BAGALKOTE,KARNATAKA
+763,"Karnataka Circle","Bagalkot Division","Nilgund B.O",587201,BAGALKOTE,KARNATAKA
+764,"Karnataka Circle","Bagalkot Division","Shivayogmandir B.O",587201,BAGALKOTE,KARNATAKA
+765,"Karnataka Circle","Bagalkot Division","Achanur B.O",587111,BAGALKOTE,KARNATAKA
+766,"Karnataka Circle","Bagalkot Division","Bennur B.O",587111,BAGALKOTE,KARNATAKA
+767,"Karnataka Circle","Bagalkot Division","Niralkeri B.O",587111,BAGALKOTE,KARNATAKA
+768,"Karnataka Circle","Hassan Division","Magge B.O",573129,HASSAN,KARNATAKA
+769,"Karnataka Circle","Hassan Division","Malagalale B.O",573129,HASSAN,KARNATAKA
+770,"Karnataka Circle","Hassan Division","Basavanahalli B.O",573136,HASSAN,KARNATAKA
+771,"Karnataka Circle","Hassan Division","Bidarakka B.O",573136,HASSAN,KARNATAKA
+772,"Karnataka Circle","Hassan Division","Bannur B.O",573130,HASSAN,KARNATAKA
+773,"Karnataka Circle","Hassan Division","Bellame B.O",573130,HASSAN,KARNATAKA
+774,"Karnataka Circle","Hassan Division","Maduranahalli B.O",573136,HASSAN,KARNATAKA
+775,"Karnataka Circle","Hassan Division","Hebbasale B.O",573134,HASSAN,KARNATAKA
+776,"Karnataka Circle","Hassan Division","Heggadde B.O",573134,HASSAN,KARNATAKA
+777,"Karnataka Circle","Hassan Division","Seege B.O",573219,HASSAN,KARNATAKA
+778,"Karnataka Circle","Hassan Division","Yelagunda B.O",573219,HASSAN,KARNATAKA
+779,"Karnataka Circle","Hassan Division","Thannirhalla B.O",573201,HASSAN,KARNATAKA
+780,"Karnataka Circle","Hassan Division","Doddagenigere B.O",573226,HASSAN,KARNATAKA
+781,"Karnataka Circle","Hassan Division","Changadihalli B.O",573137,HASSAN,KARNATAKA
+782,"Karnataka Circle","Hassan Division","Doddakundur B.O",573137,HASSAN,KARNATAKA
+783,"Karnataka Circle","Kodagu Division","Kalur B.O",571201,KODAGU,KARNATAKA
+784,"Karnataka Circle","Kodagu Division","Kandanakolli B.O",571201,KODAGU,KARNATAKA
+785,"Karnataka Circle","Kodagu Division","Kottur B.O",571201,KODAGU,KARNATAKA
+786,"Karnataka Circle","Hassan Division","Jodihandankere B.O",573217,HASSAN,KARNATAKA
+787,"Karnataka Circle","Hassan Division","Jodithattekere B.O",573217,HASSAN,KARNATAKA
+788,"Karnataka Circle","Hassan Division","Byadarahalli B.O",573128,HASSAN,KARNATAKA
+789,"Karnataka Circle","Hassan Division","Dundanayakanahalli B.O",573128,HASSAN,KARNATAKA
+790,"Karnataka Circle","Hassan Division","Ganjigere B.O",573128,HASSAN,KARNATAKA
+791,"Karnataka Circle","Hassan Division","Harihalli B.O",573129,HASSAN,KARNATAKA
+792,"Karnataka Circle","Hassan Division","Hemmige B.O",573129,HASSAN,KARNATAKA
+793,"Karnataka Circle","Hassan Division","Chikkahalli B.O",573130,HASSAN,KARNATAKA
+794,"Karnataka Circle","Hassan Division","Doddabemmathi B.O",573130,HASSAN,KARNATAKA
+795,"Karnataka Circle","Hassan Division","Handarangi B.O",573130,HASSAN,KARNATAKA
+796,"Karnataka Circle","Hassan Division","Markuli B.O",573212,HASSAN,KARNATAKA
+797,"Karnataka Circle","Hassan Division","Mosale B.O",573212,HASSAN,KARNATAKA
+798,"Karnataka Circle","Hassan Division","Muthigehirehalli B.O",573212,HASSAN,KARNATAKA
+799,"Karnataka Circle","Hassan Division","Sathenahalli B.O",573212,HASSAN,KARNATAKA
+800,"Karnataka Circle","Hassan Division","Kadabagala B.O",573218,HASSAN,KARNATAKA
+801,"Karnataka Circle","Hassan Division","Madabalu B.O",573218,HASSAN,KARNATAKA
+802,"Karnataka Circle","Hassan Division","Singapur B.O",573218,HASSAN,KARNATAKA
+803,"Karnataka Circle","Hassan Division","Singodanahalli B.O",573218,HASSAN,KARNATAKA
+804,"Karnataka Circle","Hassan Division","Agrahara B.O",573133,HASSAN,KARNATAKA
+805,"Karnataka Circle","Hassan Division","Doddahalli B.O",573133,HASSAN,KARNATAKA
+806,"Karnataka Circle","Hassan Division","Gangur B.O",573133,HASSAN,KARNATAKA
+807,"Karnataka Circle","Hassan Division","Anandur B.O",573136,HASSAN,KARNATAKA
+808,"Karnataka Circle","Hassan Division","Lakkur B.O",573136,HASSAN,KARNATAKA
+809,"Karnataka Circle","Hassan Division","Donigal B.O",573134,HASSAN,KARNATAKA
+810,"Karnataka Circle","Hassan Division","Halebelur B.O",573134,HASSAN,KARNATAKA
+811,"Karnataka Circle","Hassan Division","Nidigere B.O",573134,HASSAN,KARNATAKA
+812,"Karnataka Circle","Hassan Division","Shukravarasanthe B.O",573134,HASSAN,KARNATAKA
+813,"Karnataka Circle","Hassan Division","Kadaga B.O",573219,HASSAN,KARNATAKA
+814,"Karnataka Circle","Hassan Division","Kudrugundi B.O",573219,HASSAN,KARNATAKA
+815,"Karnataka Circle","Hassan Division","Gadenahalli B.O",573226,HASSAN,KARNATAKA
+816,"Karnataka Circle","Hassan Division","Hongere B.O",573220,HASSAN,KARNATAKA
+817,"Karnataka Circle","Hassan Division","Mavanur B.O",573220,HASSAN,KARNATAKA
+818,"Karnataka Circle","Hassan Division","Kumbarahalli B.O",573137,HASSAN,KARNATAKA
+819,"Karnataka Circle","Hassan Division","Uchangi B.O",573137,HASSAN,KARNATAKA
+820,"Karnataka Circle","Kodagu Division","Avandur B.O",571201,KODAGU,KARNATAKA
+821,"Karnataka Circle","Kodagu Division","Bettageri B.O",571201,KODAGU,KARNATAKA
+822,"Karnataka Circle","Kodagu Division","Boikeri B.O",571201,KODAGU,KARNATAKA
+823,"Karnataka Circle","Kodagu Division","Cherambane B.O",571201,KODAGU,KARNATAKA
+824,"Karnataka Circle","Kodagu Division","Heravanadu B.O",571201,KODAGU,KARNATAKA
+825,"Karnataka Circle","Kodagu Division","Karmadu B.O",571211,KODAGU,KARNATAKA
+826,"Karnataka Circle","Kodagu Division","Kavadi B.O",571211,KODAGU,KARNATAKA
+827,"Karnataka Circle","Kodagu Division","Vontiangadi B.O",571211,KODAGU,KARNATAKA
+828,"Karnataka Circle","Kodagu Division","Kadanga B.O",571212,KODAGU,KARNATAKA
+829,"Karnataka Circle","Kodagu Division","Kakkabbe B.O",571212,KODAGU,KARNATAKA
+830,"Karnataka Circle","Kodagu Division","Karada B.O",571212,KODAGU,KARNATAKA
+831,"Karnataka Circle","Kodagu Division","Aruvathoklu B.O",571213,KODAGU,KARNATAKA
+832,"Karnataka Circle","Mysuru Division","Rayanakere B.O",570008,MYSURU,KARNATAKA
+833,"Karnataka Circle","Mysuru Division","Udbur B.O",570008,MYSURU,KARNATAKA
+834,"Karnataka Circle","Mysuru Division","Siddalingapura B.O",570003,MYSURU,KARNATAKA
+835,"Karnataka Circle","Mysuru Division","Ramanahalli B.O",570019,MYSURU,KARNATAKA
+836,"Karnataka Circle","Mysuru Division","Bettadathunga B.O",571102,MYSURU,KARNATAKA
+837,"Karnataka Circle","Mysuru Division","Chapparadahalli B.O",571102,MYSURU,KARNATAKA
+838,"Karnataka Circle","Mysuru Division","Chikkanerale B.O",571102,MYSURU,KARNATAKA
+839,"Karnataka Circle","Mysuru Division","Komalapura B.O",571102,MYSURU,KARNATAKA
+840,"Karnataka Circle","Mysuru Division","Gagenahalli B.O",571103,MYSURU,KARNATAKA
+841,"Karnataka Circle","Mysuru Division","Hussainpura B.O",571103,MYSURU,KARNATAKA
+842,"Karnataka Circle","Mysuru Division","Kergalli B.O",570026,MYSURU,KARNATAKA
+843,"Karnataka Circle","Mysuru Division","Mallahalli B.O",570026,MYSURU,KARNATAKA
+844,"Karnataka Circle","Mysuru Division","Hanasoge B.O",571617,MYSURU,KARNATAKA
+845,"Karnataka Circle","Mysuru Division","Hosur B.O",571617,MYSURU,KARNATAKA
+846,"Karnataka Circle","Mysuru Division","Chakkur B.O",571125,MYSURU,KARNATAKA
+847,"Karnataka Circle","Mysuru Division","Madapura B.O",571125,MYSURU,KARNATAKA
+848,"Karnataka Circle","Mysuru Division","Bheriya B.O",571601,MYSURU,KARNATAKA
+849,"Karnataka Circle","Mysuru Division","Galigekere B.O",571601,MYSURU,KARNATAKA
+850,"Karnataka Circle","Mysuru Division","Doddabyranakuppe B.O",571114,MYSURU,KARNATAKA
+851,"Karnataka Circle","Mysuru Division","Kollegowdanahalli B.O",571114,MYSURU,KARNATAKA
+852,"Karnataka Circle","Bidar Division","Bawalgaon B.O",585326,BIDAR,KARNATAKA
+853,"Karnataka Circle","Bidar Division","Bhandarkumta B.O",585326,BIDAR,KARNATAKA
+854,"Karnataka Circle","Bidar Division","Bonthi B.O",585326,BIDAR,KARNATAKA
+855,"Karnataka Circle","Bidar Division","Chikli (U) B.O",585326,BIDAR,KARNATAKA
+856,"Karnataka Circle","Bidar Division","Kollur (A) B.O",585326,BIDAR,KARNATAKA
+857,"Karnataka Circle","Bidar Division","Mugnal B.O",585326,BIDAR,KARNATAKA
+858,"Karnataka Circle","Bidar Division","Nagmarpalli B.O",585326,BIDAR,KARNATAKA
+859,"Karnataka Circle","Bidar Division","Raipalli B.O",585326,BIDAR,KARNATAKA
+860,"Karnataka Circle","Bidar Division","Sundal B.O",585326,BIDAR,KARNATAKA
+861,"Karnataka Circle","Bidar Division","Yengunda B.O",585326,BIDAR,KARNATAKA
+862,"Karnataka Circle","Bidar Division","Gorta (B) B.O",585327,BIDAR,KARNATAKA
+863,"Karnataka Circle","Bidar Division","Gour B.O",585327,BIDAR,KARNATAKA
+864,"Karnataka Circle","Bidar Division","Kadepur B.O",585327,BIDAR,KARNATAKA
+865,"Karnataka Circle","Bidar Division","Khanapur (K) B.O",585327,BIDAR,KARNATAKA
+866,"Karnataka Circle","Bidar Division","Narayanpur B.O",585327,BIDAR,KARNATAKA
+867,"Karnataka Circle","Bidar Division","Partapur B.O",585327,BIDAR,KARNATAKA
+868,"Karnataka Circle","Bidar Division","Sastapur B.O",585327,BIDAR,KARNATAKA
+869,"Karnataka Circle","Bidar Division","Dawargaon B.O",585328,BIDAR,KARNATAKA
+870,"Karnataka Circle","Bidar Division","Talwada (M) B.O",585328,BIDAR,KARNATAKA
+871,"Karnataka Circle","Kalaburagi Division","Chamnal B.O",585309,YADGIR,KARNATAKA
+872,"Karnataka Circle","Kalaburagi Division","Hoskera B.O",585309,YADGIR,KARNATAKA
+873,"Karnataka Circle","Kalaburagi Division","Rajapur B.O",585309,YADGIR,KARNATAKA
+874,"Karnataka Circle","Kalaburagi Division","Ukkinal B.O",585309,YADGIR,KARNATAKA
+875,"Karnataka Circle","Kalaburagi Division","Budur B.O",585214,YADGIR,KARNATAKA
+876,"Karnataka Circle","Kalaburagi Division","Kakalwar B.O",585214,YADGIR,KARNATAKA
+877,"Karnataka Circle","Kalaburagi Division","Keshwar B.O",585214,YADGIR,KARNATAKA
+878,"Karnataka Circle","Kalaburagi Division","Kotgera B.O",585214,YADGIR,KARNATAKA
+879,"Karnataka Circle","Kalaburagi Division","Kolihal B.O",585215,YADGIR,KARNATAKA
+880,"Karnataka Circle","Kalaburagi Division","Munirbommanahalli B.O",585216,YADGIR,KARNATAKA
+881,"Karnataka Circle","Kalaburagi Division","Nagnoor B.O",585216,YADGIR,KARNATAKA
+882,"Karnataka Circle","Kalaburagi Division","Parasanhalli B.O",585216,YADGIR,KARNATAKA
+883,"Karnataka Circle","Kalaburagi Division","Yelgi B.O",585216,YADGIR,KARNATAKA
+884,"Karnataka Circle","Kalaburagi Division","Peth Ammapur B.O",585224,YADGIR,KARNATAKA
+885,"Karnataka Circle","Kalaburagi Division","Rukmapur B.O",585290,YADGIR,KARNATAKA
+886,"Karnataka Circle","Kalaburagi Division","Budihal B.O",585237,YADGIR,KARNATAKA
+887,"Karnataka Circle","Kalaburagi Division","Joganbhavi B.O",585237,YADGIR,KARNATAKA
+888,"Karnataka Circle","Kalaburagi Division","Baichbal B.O",585224,YADGIR,KARNATAKA
+889,"Karnataka Circle","Kalaburagi Division","Bonal B.O",585290,YADGIR,KARNATAKA
+890,"Karnataka Circle","Kalaburagi Division","Devapur B.O",585290,YADGIR,KARNATAKA
+891,"Karnataka Circle","Kodagu Division","Koynad B.O",571201,KODAGU,KARNATAKA
+892,"Karnataka Circle","Kodagu Division","Nittur B.O",571219,KODAGU,KARNATAKA
+893,"Karnataka Circle","Kodagu Division","Chettimani B.O",571247,KODAGU,KARNATAKA
+894,"Karnataka Circle","Kodagu Division","Kundacherry B.O",571247,KODAGU,KARNATAKA
+895,"Karnataka Circle","Kodagu Division","Sannapulikote B.O",571247,KODAGU,KARNATAKA
+896,"Karnataka Circle","Kodagu Division","Arapattu B.O",571212,KODAGU,KARNATAKA
+897,"Karnataka Circle","Kodagu Division","Hysodlur B.O",571249,KODAGU,KARNATAKA
+898,"Karnataka Circle","Kodagu Division","T.Shettigeri B.O",571249,KODAGU,KARNATAKA
+899,"Karnataka Circle","Kodagu Division","Theralu B.O",571249,KODAGU,KARNATAKA
+900,"Karnataka Circle","Kodagu Division","Thorenur B.O",571232,KODAGU,KARNATAKA
+901,"Karnataka Circle","Kodagu Division","Nanjarayapatna B.O",571234,KODAGU,KARNATAKA
+902,"Karnataka Circle","Kodagu Division","Garvale B.O",571251,KODAGU,KARNATAKA
+903,"Karnataka Circle","Kodagu Division","Kiragandur B.O",571251,KODAGU,KARNATAKA
+904,"Karnataka Circle","Bidar Division","Siddeshwar B.O",585413,BIDAR,KARNATAKA
+905,"Karnataka Circle","Bidar Division","Talwada (K) B.O",585413,BIDAR,KARNATAKA
+906,"Karnataka Circle","Bidar Division","Alura B.O",585414,BIDAR,KARNATAKA
+907,"Karnataka Circle","Bidar Division","Benchincholli B.O",585414,BIDAR,KARNATAKA
+908,"Karnataka Circle","Bidar Division","Sinbandgi B.O",585415,BIDAR,KARNATAKA
+909,"Karnataka Circle","Bidar Division","Tugaon (C) Katti B.O",585415,BIDAR,KARNATAKA
+910,"Karnataka Circle","Bidar Division","Ranjol Kheni B.O",585329,BIDAR,KARNATAKA
+911,"Karnataka Circle","Bidar Division","Sirkatnalli B.O",585329,BIDAR,KARNATAKA
+912,"Karnataka Circle","Bidar Division","Sitalgera B.O",585329,BIDAR,KARNATAKA
+913,"Karnataka Circle","Bidar Division","Talmadgi B.O",585329,BIDAR,KARNATAKA
+914,"Karnataka Circle","Bidar Division","Alwai B.O",585416,BIDAR,KARNATAKA
+915,"Karnataka Circle","Kalaburagi Division","Balbatti B.O",585309,KALABURAGI,KARNATAKA
+916,"Karnataka Circle","Kalaburagi Division","Medak B.O",585214,KALABURAGI,KARNATAKA
+917,"Karnataka Circle","Kalaburagi Division","Tulmamadi B.O",585214,KALABURAGI,KARNATAKA
+918,"Karnataka Circle","Kalaburagi Division","Yanagundi B.O",585214,KALABURAGI,KARNATAKA
+919,"Karnataka Circle","Mysuru Division","Kotige Yedathore B.O",571114,MYSURU,KARNATAKA
+920,"Karnataka Circle","Mysuru Division","Chilkunda B.O",571105,MYSURU,KARNATAKA
+921,"Karnataka Circle","Mysuru Division","Gurupura B.O",571105,MYSURU,KARNATAKA
+922,"Karnataka Circle","Mysuru Division","Panchavalli B.O",571105,MYSURU,KARNATAKA
+923,"Karnataka Circle","Mysuru Division","Malali B.O",571116,MYSURU,KARNATAKA
+924,"Karnataka Circle","Ballari Division","Ragimasalawada B.O",583137,BALLARI,KARNATAKA
+925,"Karnataka Circle","Ballari Division","Singrihalli B.O",583137,BALLARI,KARNATAKA
+926,"Karnataka Circle","Ballari Division","Bannigola B.O",583224,BALLARI,KARNATAKA
+927,"Karnataka Circle","Belagavi Division","Tigadolli B.O",591115,BELAGAVI,KARNATAKA
+928,"Karnataka Circle","Belagavi Division","Devara Shigihalli B.O",591153,BELAGAVI,KARNATAKA
+929,"Karnataka Circle","Belagavi Division","Holehosur B.O",591118,BELAGAVI,KARNATAKA
+930,"Karnataka Circle","Belagavi Division","Hirebudnur B.O",591119,BELAGAVI,KARNATAKA
+931,"Karnataka Circle","Bagalkot Division","Bhairmatti B.O",587115,BAGALKOTE,KARNATAKA
+932,"Karnataka Circle","Bagalkot Division","Bodanaikanadinni B.O",587115,BAGALKOTE,KARNATAKA
+933,"Karnataka Circle","Gadag Division","Beldhadi B.O",582103,GADAG,KARNATAKA
+934,"Karnataka Circle","Gadag Division","Binkadkatti B.O",582103,GADAG,KARNATAKA
+935,"Karnataka Circle","Gadag Division","Nidgundi B.O",582114,GADAG,KARNATAKA
+936,"Karnataka Circle","Gadag Division","Rajur B.O",582114,GADAG,KARNATAKA
+937,"Karnataka Circle","Gadag Division","Rampur B.O",582114,GADAG,KARNATAKA
+938,"Karnataka Circle","Gadag Division","Chickhandigol B.O",582205,GADAG,KARNATAKA
+939,"Karnataka Circle","Gadag Division","Hosahalli B.O",582205,GADAG,KARNATAKA
+940,"Karnataka Circle","Bagalkot Division","Belgal B.O",587112,BAGALKOTE,KARNATAKA
+941,"Karnataka Circle","Bagalkot Division","Chittargi B.O",587112,BAGALKOTE,KARNATAKA
+942,"Karnataka Circle","Bagalkot Division","Hiremagi B.O",587112,BAGALKOTE,KARNATAKA
+943,"Karnataka Circle","Bagalkot Division","Hebballi B.O",587201,BAGALKOTE,KARNATAKA
+944,"Karnataka Circle","Bagalkot Division","Khyad B.O",587201,BAGALKOTE,KARNATAKA
+945,"Karnataka Circle","Bagalkot Division","Lakhamapur B.O",587201,BAGALKOTE,KARNATAKA
+946,"Karnataka Circle","Bagalkot Division","Pattadkal B.O",587201,BAGALKOTE,KARNATAKA
+947,"Karnataka Circle","Bagalkot Division","Yankanchi B.O",587201,BAGALKOTE,KARNATAKA
+948,"Karnataka Circle","Bagalkot Division","Benkatti B.O",587111,BAGALKOTE,KARNATAKA
+949,"Karnataka Circle","Bagalkot Division","Bevinmattti B.O",587111,BAGALKOTE,KARNATAKA
+950,"Karnataka Circle","Bagalkot Division","Kadlimatti B.O",587111,BAGALKOTE,KARNATAKA
+951,"Karnataka Circle","Bagalkot Division","Mugalolli B.O",587111,BAGALKOTE,KARNATAKA
+952,"Karnataka Circle","Bagalkot Division","Shigikeri B.O",587111,BAGALKOTE,KARNATAKA
+953,"Karnataka Circle","Bagalkot Division","Gandhinagar B.O",587103,BAGALKOTE,KARNATAKA
+954,"Karnataka Circle","Bagalkot Division","Dhanakshirur B.O",587114,BAGALKOTE,KARNATAKA
+955,"Karnataka Circle","Nanjangud Division","Attahlli B.O",571101,MYSURU,KARNATAKA
+956,"Karnataka Circle","Mysuru Division","Nerale B.O",571116,MYSURU,KARNATAKA
+957,"Karnataka Circle","Mysuru Division","Devalapura B.O",571311,MYSURU,KARNATAKA
+958,"Karnataka Circle","Mysuru Division","Taloor B.O",571311,MYSURU,KARNATAKA
+959,"Karnataka Circle","Mysuru Division","Halaganahalli B.O",571187,MYSURU,KARNATAKA
+960,"Karnataka Circle","Mysuru Division","Honnapura B.O",571187,MYSURU,KARNATAKA
+961,"Karnataka Circle","Mysuru Division","Modur B.O",571134,MYSURU,KARNATAKA
+962,"Karnataka Circle","Mysuru Division","Byadarahalli B.O",571602,MYSURU,KARNATAKA
+963,"Karnataka Circle","Mysuru Division","Kestur(Hunsur) B.O",571602,MYSURU,KARNATAKA
+964,"Karnataka Circle","Mysuru Division","Krishnapura B.O",571602,MYSURU,KARNATAKA
+965,"Karnataka Circle","Mysuru Division","Natanahalli B.O",571603,MYSURU,KARNATAKA
+966,"Karnataka Circle","Mysuru Division","Chowthi B.O",571107,MYSURU,KARNATAKA
+967,"Karnataka Circle","Mysuru Division","Hitnehebbagilu B.O",571107,MYSURU,KARNATAKA
+968,"Karnataka Circle","Mysuru Division","Nandinathapura B.O",571107,MYSURU,KARNATAKA
+969,"Karnataka Circle","Mysuru Division","Ballenahalli B.O",571189,MYSURU,KARNATAKA
+970,"Karnataka Circle","Mysuru Division","Shanthipura B.O",571189,MYSURU,KARNATAKA
+971,"Karnataka Circle","Mysuru Division","Doddabylalu B.O",571108,MYSURU,KARNATAKA
+972,"Karnataka Circle","Mysuru Division","Lakkikuppe B.O",571604,MYSURU,KARNATAKA
+973,"Karnataka Circle","Mysuru Division","Ramapura B.O",571604,MYSURU,KARNATAKA
+974,"Karnataka Circle","Mysuru Division","Kothegala B.O",571121,MYSURU,KARNATAKA
+975,"Karnataka Circle","Mysuru Division","Sagare B.O",571121,MYSURU,KARNATAKA
+976,"Karnataka Circle","Mysuru Division","Kallur Naganahalli B.O",571130,MYSURU,KARNATAKA
+977,"Karnataka Circle","Mysuru Division","Doddahejjur B.O",571106,MYSURU,KARNATAKA
+978,"Karnataka Circle","Mysuru Division","Honnenahalli B.O",571106,MYSURU,KARNATAKA
+979,"Karnataka Circle","Dharwad Division","Shirur B.O",581201,DHARWAD,KARNATAKA
+980,"Karnataka Circle","Dharwad Division","Mummigatti B.O",580011,DHARWAD,KARNATAKA
+981,"Karnataka Circle","Dharwad Division","Tegur B.O",580011,DHARWAD,KARNATAKA
+982,"Karnataka Circle","Dharwad Division","Kavalgeri B.O",580006,DHARWAD,KARNATAKA
+983,"Karnataka Circle","Dharwad Division","Kambarganavi B.O",580007,DHARWAD,KARNATAKA
+984,"Karnataka Circle","Dharwad Division","Kyarakoppa B.O",580007,DHARWAD,KARNATAKA
+985,"Karnataka Circle","Dharwad Division","Managundi B.O",580007,DHARWAD,KARNATAKA
+986,"Karnataka Circle","Dharwad Division","Sadhankeri B.O",580007,DHARWAD,KARNATAKA
+987,"Karnataka Circle","Dharwad Division","Kotabagi B.O",581105,DHARWAD,KARNATAKA
+988,"Karnataka Circle","Dharwad Division","Halligeri B.O",580118,DHARWAD,KARNATAKA
+989,"Karnataka Circle","Dharwad Division","Belavantar B.O",581204,DHARWAD,KARNATAKA
+990,"Karnataka Circle","Dharwad Division","Devikoppa B.O",581204,DHARWAD,KARNATAKA
+991,"Karnataka Circle","Dharwad Division","Kudalagi B.O",581204,DHARWAD,KARNATAKA
+992,"Karnataka Circle","Dharwad Division","Tabakadhonnihalli B.O",581204,DHARWAD,KARNATAKA
+993,"Karnataka Circle","Dharwad Division","Tavarageri B.O",581204,DHARWAD,KARNATAKA
+994,"Karnataka Circle","Dharwad Division","Lokur B.O",581206,DHARWAD,KARNATAKA
+995,"Karnataka Circle","Dharwad Division","Bhadrapur B.O",582201,DHARWAD,KARNATAKA
+996,"Karnataka Circle","Dharwad Division","Yaliwal B.O",581207,DHARWAD,KARNATAKA
+997,"Karnataka Circle","Dharwad Division","Kalas B.O",581107,DHARWAD,KARNATAKA
+998,"Karnataka Circle","Dharwad Division","Ballarwad B.O",581209,DHARWAD,KARNATAKA
+999,"Karnataka Circle","Dharwad Division","Manakawad B.O",581209,DHARWAD,KARNATAKA
+1000,"Karnataka Circle","Dharwad Division","Shishuvinahalli B.O",581209,DHARWAD,KARNATAKA
